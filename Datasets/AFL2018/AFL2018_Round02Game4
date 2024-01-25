@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+13,"Adams, Taylor",6,2,19,25,0,0,0,7,0,3,4,6,1,3,0,12,15,0,0,2,0,0,86,-16,"Collingwood","2018",2
+14,"Aish, James",14,6,9,23,1,0,0,4,1,6,3,3,2,0,0,8,13,2,0,1,0,2,90,-16,"Collingwood","2018",2
+29,"Broomhead, Tim",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,-16,"Collingwood","2018",2
+17,"Brown, Callum",4,1,8,12,0,0,0,4,1,1,1,0,1,0,0,4,8,0,0,3,0,0,77,-16,"Collingwood","2018",2
+25,"Crisp, Jack",13,4,7,20,1,1,0,3,5,3,0,5,1,0,0,5,16,0,0,3,1,0,88,-16,"Collingwood","2018",2
+39,"Crocker, Ben",10,4,1,11,1,1,0,0,0,2,0,3,3,1,0,4,6,1,2,1,0,1,85,-16,"Collingwood","2018",2
+15,"Dunn, Lynden",7,5,8,15,0,0,0,2,2,0,0,1,2,0,0,8,8,0,0,3,0,0,94,-16,"Collingwood","2018",2
+4,"Grundy, Brodie",7,3,13,20,2,0,45,3,0,1,8,3,5,1,0,14,6,1,0,3,0,0,94,-16,"Collingwood","2018",2
+32,"Hoskin-Elliott, Will",5,4,6,11,1,1,0,3,0,1,0,4,0,0,0,3,8,0,1,0,0,0,89,-16,"Collingwood","2018",2
+38,"Howe, Jeremy",19,9,8,27,0,0,0,2,11,3,0,5,3,1,0,11,16,3,0,3,0,0,86,-16,"Collingwood","2018",2
+8,"Langdon, Tom",15,6,9,24,0,0,0,1,4,3,0,6,1,3,0,5,16,1,0,8,0,0,89,-16,"Collingwood","2018",2
+37,"Maynard, Brayden",7,0,8,15,0,0,0,7,1,2,0,4,0,1,0,5,10,0,0,3,1,0,85,-16,"Collingwood","2018",2
+30,"Moore, Darcy",4,1,2,6,1,0,2,2,0,1,0,1,1,0,0,4,2,0,0,0,0,0,43,-16,"Collingwood","2018",2
+9,"Murray, Sam",11,2,9,20,0,0,0,0,2,3,0,4,0,1,0,4,17,1,0,1,1,0,88,-16,"Collingwood","2018",2
+10,"Pendlebury, Scott",11,5,19,30,0,0,1,9,0,6,3,4,1,2,2,11,21,0,0,3,0,0,88,-16,"Collingwood","2018",2
+21,"Phillips, Tom",21,10,11,32,1,1,0,2,2,5,1,2,1,0,0,8,23,0,0,1,1,0,95,-16,"Collingwood","2018",2
+12,"Scharenberg, Matt",13,8,10,23,0,0,0,3,4,1,0,3,1,1,0,5,17,2,0,3,0,0,94,-16,"Collingwood","2018",2
+22,"Sidebottom, Steele",11,6,13,24,0,0,0,5,1,6,8,5,2,1,0,14,10,0,0,2,0,0,87,-16,"Collingwood","2018",2
+35,"Stephenson, Jaidyn",8,2,5,13,0,0,0,4,0,3,0,0,1,0,0,4,10,0,0,2,0,1,81,-16,"Collingwood","2018",2
+24,"Thomas, Josh",9,2,11,20,1,2,0,2,0,1,5,4,0,2,0,11,9,0,1,1,0,0,85,-16,"Collingwood","2018",2
+7,"Treloar, Adam",8,3,16,24,2,0,0,5,0,2,3,4,2,3,0,12,13,0,0,0,2,1,89,-16,"Collingwood","2018",2
+18,"Varcoe, Travis",8,2,4,12,1,1,0,4,0,0,1,0,0,0,0,3,7,0,1,2,0,1,85,-16,"Collingwood","2018",2
+0,"Totals",211,85,196,407,12,7,48,72,34,53,37,67,28,20,2,155,251,11,5,45,6,6,0,-16,"Collingwood","2018",2
+18,"Cameron, Jeremy",10,9,1,11,3,1,0,0,1,1,0,7,1,3,0,3,8,1,5,3,0,0,88,16,"Greater Western Sydney","2018",2
+3,"Coniglio, Stephen",16,7,11,27,3,0,0,3,2,5,7,5,2,1,3,14,15,1,1,2,0,0,90,16,"Greater Western Sydney","2018",2
+35,"Corr, Aidan",5,3,2,7,0,0,0,2,1,1,0,2,0,1,0,2,5,0,0,4,0,0,79,16,"Greater Western Sydney","2018",2
+1,"Davis, Phil",6,5,11,17,0,0,0,1,2,0,0,6,3,4,0,10,6,1,0,6,0,0,92,16,"Greater Western Sydney","2018",2
+24,"de Boer, Matt",5,4,12,17,1,0,0,3,1,1,2,2,1,0,0,9,7,0,1,2,0,0,90,16,"Greater Western Sydney","2018",2
+7,"Deledio, Brett",11,4,11,22,0,0,0,3,1,6,3,1,2,0,0,10,12,0,0,3,0,1,77,16,"Greater Western Sydney","2018",2
+31,"Finlayson, Jeremy",21,6,2,23,0,0,0,2,7,0,0,3,0,1,0,8,12,2,0,4,0,0,75,16,"Greater Western Sydney","2018",2
+19,"Haynes, Nick",9,5,2,11,0,0,0,2,2,1,1,1,0,0,0,5,7,1,0,6,0,0,88,16,"Greater Western Sydney","2018",2
+27,"Himmelberg, Harry",3,1,3,6,1,2,0,1,0,0,0,3,1,2,0,3,3,0,1,3,0,0,91,16,"Greater Western Sydney","2018",2
+22,"Kelly, Josh",13,2,6,19,1,0,0,15,0,5,0,4,1,2,1,6,17,0,2,0,0,1,87,16,"Greater Western Sydney","2018",2
+17,"Langdon, Zac",8,3,5,13,2,0,0,1,1,2,0,4,1,0,0,7,7,0,0,2,0,0,65,16,"Greater Western Sydney","2018",2
+38,"Lloyd, Daniel",4,1,9,13,1,0,0,3,0,1,1,2,0,1,0,5,9,0,0,0,0,1,77,16,"Greater Western Sydney","2018",2
+37,"Lobb, Rory",11,5,4,15,0,0,20,2,3,0,2,11,0,4,0,5,10,1,0,6,0,0,85,16,"Greater Western Sydney","2018",2
+12,"Patton, Jonathon",5,3,8,13,0,1,2,3,0,3,4,4,2,3,0,7,6,0,0,0,0,1,88,16,"Greater Western Sydney","2018",2
+50,"Reid, Sam",5,3,8,13,0,0,0,3,0,2,0,2,0,0,0,7,7,0,0,3,0,1,87,16,"Greater Western Sydney","2018",2
+9,"Scully, Tom",3,1,2,5,1,0,0,1,0,0,0,2,0,1,0,0,5,0,0,0,0,0,23,16,"Greater Western Sydney","2018",2
+23,"Shaw, Heath",17,4,6,23,0,0,0,1,11,2,0,3,0,0,0,7,14,0,0,4,6,0,86,16,"Greater Western Sydney","2018",2
+5,"Shiel, Dylan",15,2,11,26,0,0,0,3,1,6,5,4,2,2,0,9,16,0,0,0,0,3,84,16,"Greater Western Sydney","2018",2
+14,"Taranto, Tim",10,1,13,23,0,0,0,8,2,2,4,3,3,1,0,13,11,0,0,2,0,1,88,16,"Greater Western Sydney","2018",2
+20,"Tomlinson, Adam",13,9,10,23,1,0,0,1,0,5,0,2,0,0,0,5,17,1,1,0,0,2,88,16,"Greater Western Sydney","2018",2
+8,"Ward, Callan",16,5,13,29,0,0,0,2,5,5,11,2,1,1,0,14,15,0,0,0,0,1,79,16,"Greater Western Sydney","2018",2
+6,"Whitfield, Lachie",17,13,9,26,1,0,0,3,1,3,1,3,0,1,0,2,24,0,1,3,2,2,93,16,"Greater Western Sydney","2018",2
+0,"Rushed",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,"Greater Western Sydney","2018",2

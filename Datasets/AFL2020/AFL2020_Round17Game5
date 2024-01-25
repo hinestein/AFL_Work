@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+44,"Buckley, Jack",5,3,7,12,0,0,0,3,2,2,1,0,2,0,0,7,5,2,0,3,0,1,79,-5,"Greater Western Sydney","2020",17
+18,"Cameron, Jeremy",5,2,7,12,1,0,0,2,0,2,0,3,0,1,0,5,7,1,0,2,0,0,82,-5,"Greater Western Sydney","2020",17
+16,"Daniels, Brent",12,3,4,16,3,0,0,3,0,4,1,6,0,3,2,8,9,0,1,1,1,2,89,-5,"Greater Western Sydney","2020",17
+24,"de Boer, Matt",6,0,3,9,1,0,0,3,1,1,0,2,1,1,0,5,5,0,0,3,0,0,86,-5,"Greater Western Sydney","2020",17
+31,"Finlayson, Jeremy",9,2,4,13,1,2,0,3,0,1,0,1,0,0,0,1,10,0,0,1,0,0,77,-5,"Greater Western Sydney","2020",17
+12,"Green, Tom",8,2,22,30,0,0,0,3,0,2,4,3,0,0,0,21,9,0,0,0,0,1,67,-5,"Greater Western Sydney","2020",17
+4,"Greene, Toby",11,3,4,15,0,3,0,5,1,4,1,4,1,2,0,9,7,0,2,3,0,0,91,-5,"Greater Western Sydney","2020",17
+19,"Haynes, Nick",7,5,3,10,0,0,0,1,2,2,0,4,1,0,0,6,5,1,0,3,0,0,88,-5,"Greater Western Sydney","2020",17
+27,"Himmelberg, Harry",2,2,3,5,0,0,2,1,0,2,1,0,0,0,0,2,3,0,0,1,0,0,88,-5,"Greater Western Sydney","2020",17
+2,"Hopper, Jacob",13,4,8,21,0,1,0,5,3,4,5,1,1,0,0,13,9,0,1,0,0,0,80,-5,"Greater Western Sydney","2020",17
+39,"Idun, Connor",2,2,2,4,0,0,0,0,1,1,0,1,0,0,0,2,2,0,0,2,0,0,78,-5,"Greater Western Sydney","2020",17
+25,"Keeffe, Lachlan",7,3,0,7,0,0,0,5,2,2,0,3,0,1,0,3,5,1,0,10,0,0,91,-5,"Greater Western Sydney","2020",17
+22,"Kelly, Josh",20,2,4,24,0,1,0,5,2,10,4,2,1,0,0,13,12,1,0,2,2,1,89,-5,"Greater Western Sydney","2020",17
+40,"Kennedy, Adam",7,3,4,11,0,0,0,2,2,0,0,3,0,0,0,4,7,0,0,1,1,0,83,-5,"Greater Western Sydney","2020",17
+38,"Lloyd, Daniel",5,2,3,8,2,0,0,3,1,1,0,3,2,1,0,7,3,0,1,1,0,0,64,-5,"Greater Western Sydney","2020",17
+41,"Mumford, Shane",4,3,3,7,0,0,18,7,1,3,3,5,2,4,0,5,3,1,0,7,0,0,87,-5,"Greater Western Sydney","2020",17
+36,"Perryman, Harry",10,1,8,18,1,0,0,3,2,3,3,1,1,0,0,8,10,0,0,4,0,0,81,-5,"Greater Western Sydney","2020",17
+50,"Reid, Sam",3,0,3,6,0,0,0,2,0,1,0,2,0,1,0,1,5,0,0,2,0,0,80,-5,"Greater Western Sydney","2020",17
+23,"Shaw, Heath",3,0,2,5,0,0,0,3,1,0,1,0,0,0,0,2,3,0,0,4,0,0,91,-5,"Greater Western Sydney","2020",17
+14,"Taranto, Tim",7,0,8,15,0,0,0,3,0,3,3,3,1,2,0,10,5,0,0,0,0,1,75,-5,"Greater Western Sydney","2020",17
+6,"Whitfield, Lachie",10,3,12,22,0,0,0,1,5,2,3,3,1,0,0,9,10,1,0,4,0,1,91,-5,"Greater Western Sydney","2020",17
+29,"Williams, Zac",13,4,5,18,2,0,0,4,1,2,2,2,1,0,0,5,12,2,1,0,1,0,61,-5,"Greater Western Sydney","2020",17
+0,"Rushed",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,"Greater Western Sydney","2020",17
+33,"Baker, Oskar",10,3,4,14,2,0,0,2,1,3,0,2,1,1,0,3,8,0,0,1,0,0,69,5,"Melbourne","2020",17
+38,"Brown, Mitch",11,7,2,13,0,0,1,0,1,2,1,0,0,0,0,3,9,0,0,2,0,0,82,5,"Melbourne","2020",17
+31,"Fritsch, Bayley",7,4,1,8,1,1,0,1,0,1,0,2,1,1,0,5,3,2,2,2,0,1,89,5,"Melbourne","2020",17
+11,"Gawn, Max",11,1,4,15,0,0,44,4,1,2,8,3,2,1,0,9,6,0,0,3,0,0,96,5,"Melbourne","2020",17
+29,"Hunt, Jayden",4,2,1,5,1,1,0,0,1,0,0,2,0,0,0,1,3,0,0,2,0,1,71,5,"Melbourne","2020",17
+39,"Jetta, Neville",2,1,5,7,0,0,0,2,0,1,0,2,1,1,0,6,1,0,0,0,0,0,60,5,"Melbourne","2020",17
+15,"Langdon, Ed",19,9,4,23,0,1,0,0,4,3,4,5,0,2,0,4,16,0,0,1,0,0,93,5,"Melbourne","2020",17
+8,"Lever, Jake",8,6,3,11,0,0,0,4,5,0,0,2,0,0,0,3,8,1,0,6,0,0,85,5,"Melbourne","2020",17
+1,"May, Steven",18,8,1,19,0,0,0,1,8,2,0,0,0,0,0,4,9,2,0,8,0,0,96,5,"Melbourne","2020",17
+18,"Melksham, Jake",6,2,6,12,0,0,0,5,0,1,2,5,0,1,0,5,7,0,0,1,0,0,74,5,"Melbourne","2020",17
+30,"Neal-Bullen, Alex",6,2,3,9,1,0,0,1,0,3,0,1,0,0,0,4,5,0,1,0,0,0,64,5,"Melbourne","2020",17
+13,"Oliver, Clayton",11,2,12,23,0,0,0,7,0,4,7,4,1,1,3,11,10,0,0,0,0,1,85,5,"Melbourne","2020",17
+5,"Petracca, Christian",12,1,10,22,1,1,0,4,0,2,6,3,2,1,0,19,5,0,0,0,0,1,94,5,"Melbourne","2020",17
+36,"Pickett, Kysaiah",8,4,7,15,1,3,0,1,1,1,1,1,1,1,0,8,7,0,2,0,0,0,69,5,"Melbourne","2020",17
+24,"Rivers, Trent",10,2,6,16,2,0,0,3,2,2,2,3,4,0,0,8,8,0,0,4,0,0,82,5,"Melbourne","2020",17
+3,"Salem, Christian",13,4,6,19,1,0,0,5,5,3,1,2,1,0,0,4,13,0,0,1,0,1,93,5,"Melbourne","2020",17
+44,"Smith, Joel",3,2,1,4,0,0,0,2,2,0,0,3,1,2,0,4,3,0,0,3,0,0,89,5,"Melbourne","2020",17
+9,"Spargo, Charlie",7,5,6,13,2,0,0,2,0,3,0,1,0,0,0,3,10,0,1,1,0,0,64,5,"Melbourne","2020",17
+20,"Tomlinson, Adam",5,3,2,7,0,0,0,3,4,0,0,1,1,0,0,5,3,0,0,2,0,0,95,5,"Melbourne","2020",17
+22,"Vandenberg, Aaron",8,5,5,13,0,0,0,4,1,2,3,1,0,0,0,4,10,0,0,0,0,1,73,5,"Melbourne","2020",17
+7,"Viney, Jack",8,4,6,14,0,0,0,3,3,3,1,4,0,3,1,8,8,1,0,1,0,0,83,5,"Melbourne","2020",17
+26,"Weideman, Sam",4,1,3,7,0,0,0,0,0,1,0,1,0,0,0,2,4,1,0,0,0,1,92,5,"Melbourne","2020",17
+0,"Totals",191,78,98,289,12,7,45,54,39,39,36,48,16,15,4,123,156,7,6,38,0,7,0,5,"Melbourne","2020",17

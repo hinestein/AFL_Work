@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+18,"Cameron, Jeremy",10,5,1,11,4,1,0,1,0,3,0,4,2,3,0,2,9,1,2,1,0,1,84,2,"Greater Western Sydney","2017",6
+35,"Corr, Aidan",10,9,5,15,0,0,0,1,7,0,0,1,0,0,0,4,11,0,0,10,0,0,80,2,"Greater Western Sydney","2017",6
+4,"Greene, Toby",13,7,4,17,3,1,0,4,0,4,0,3,0,2,0,4,13,1,3,1,0,0,87,2,"Greater Western Sydney","2017",6
+19,"Haynes, Nick",12,8,7,19,0,0,0,3,5,2,0,0,1,0,0,10,9,2,0,5,0,0,80,2,"Greater Western Sydney","2017",6
+2,"Hopper, Jacob",8,4,10,18,0,0,0,5,1,6,5,3,1,3,0,10,10,0,0,1,0,0,70,2,"Greater Western Sydney","2017",6
+17,"Johnson, Steve",5,2,6,11,0,1,0,3,0,3,0,3,2,0,0,7,7,0,0,2,0,0,83,2,"Greater Western Sydney","2017",6
+22,"Kelly, Josh",11,4,13,24,0,0,0,5,2,5,6,2,0,0,0,12,13,1,0,0,1,1,82,2,"Greater Western Sydney","2017",6
+40,"Kennedy, Adam",8,5,6,14,0,0,0,1,2,2,0,2,1,1,0,2,11,1,0,2,1,0,90,2,"Greater Western Sydney","2017",6
+15,"Kennedy, Matthew",6,1,7,13,0,1,0,6,0,1,3,5,2,2,0,10,4,1,0,1,0,0,66,2,"Greater Western Sydney","2017",6
+37,"Lobb, Rory",6,5,5,11,1,0,10,2,2,2,1,2,1,0,0,7,4,3,1,2,0,1,83,2,"Greater Western Sydney","2017",6
+41,"Mumford, Shane",1,1,7,8,0,0,52,7,1,0,2,4,2,4,0,7,1,1,1,3,0,0,82,2,"Greater Western Sydney","2017",6
+12,"Patton, Jonathon",10,9,2,12,3,2,0,0,0,2,0,4,0,1,0,3,9,2,3,0,0,1,93,2,"Greater Western Sydney","2017",6
+50,"Reid, Sam",3,0,2,5,0,0,0,1,1,2,1,1,0,1,0,3,2,0,0,0,0,1,71,2,"Greater Western Sydney","2017",6
+9,"Scully, Tom",12,4,11,23,0,0,0,5,1,4,3,3,1,0,0,9,15,0,0,2,0,1,96,2,"Greater Western Sydney","2017",6
+23,"Shaw, Heath",23,5,1,24,0,0,0,3,10,2,1,1,1,1,0,3,14,0,0,3,1,0,92,2,"Greater Western Sydney","2017",6
+5,"Shiel, Dylan",15,4,14,29,0,0,0,2,3,2,6,6,1,3,0,14,15,0,0,0,1,1,70,2,"Greater Western Sydney","2017",6
+10,"Smith, Devon",10,3,14,24,0,1,0,7,1,1,1,0,0,0,0,8,16,0,0,2,0,0,85,2,"Greater Western Sydney","2017",6
+14,"Taranto, Tim",5,4,15,20,0,0,0,7,1,1,0,2,0,1,0,7,13,0,0,2,0,0,65,2,"Greater Western Sydney","2017",6
+20,"Tomlinson, Adam",9,5,4,13,0,0,0,2,4,0,0,3,0,1,0,2,11,0,0,4,0,0,97,2,"Greater Western Sydney","2017",6
+8,"Ward, Callan",11,2,16,27,0,0,0,1,1,3,5,2,1,1,0,15,13,0,0,1,1,0,84,2,"Greater Western Sydney","2017",6
+29,"Williams, Zac",16,5,9,25,0,0,0,6,4,3,3,3,2,0,2,8,17,1,0,3,0,1,84,2,"Greater Western Sydney","2017",6
+16,"Wilson, Nathan",14,3,4,18,0,0,0,2,4,2,3,5,0,2,0,7,9,1,0,2,0,0,77,2,"Greater Western Sydney","2017",6
+0,"Rushed",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Greater Western Sydney","2017",6
+25,"Adams, Marcus",8,5,4,12,0,0,0,0,3,0,0,0,1,0,0,3,7,0,0,8,0,0,100,-2,"Western Bulldogs","2017",6
+4,"Bontempelli, Marcus",10,2,12,22,3,0,0,7,1,4,3,2,2,2,3,15,7,2,1,3,0,1,89,-2,"Western Bulldogs","2017",6
+17,"Boyd, Tom",6,3,6,12,0,0,22,3,1,3,3,7,2,3,0,7,5,0,0,4,0,0,87,-2,"Western Bulldogs","2017",6
+12,"Cordy, Zaine",7,3,5,12,0,0,0,3,1,2,0,1,0,0,0,4,8,0,0,3,0,0,86,-2,"Western Bulldogs","2017",6
+6,"Dahlhaus, Luke",10,4,17,27,0,0,0,4,2,3,2,5,1,1,0,12,16,0,0,1,0,1,80,-2,"Western Bulldogs","2017",6
+31,"Dale, Bailey",7,4,11,18,0,1,0,1,1,4,2,1,1,0,0,5,13,0,0,1,0,1,78,-2,"Western Bulldogs","2017",6
+35,"Daniel, Caleb",14,8,10,24,2,1,0,1,1,2,3,1,0,0,1,8,17,0,1,1,0,0,77,-2,"Western Bulldogs","2017",6
+20,"Dunkley, Josh",8,3,8,16,0,4,3,4,1,1,5,3,1,2,0,9,6,1,3,4,0,0,74,-2,"Western Bulldogs","2017",6
+7,"Hunter, Lachie",15,7,5,20,0,0,0,4,2,4,1,3,0,1,0,9,11,1,0,3,1,0,87,-2,"Western Bulldogs","2017",6
+39,"Johannisen, Jason",14,0,7,21,0,1,0,3,7,3,0,3,0,1,0,6,15,0,0,1,0,0,82,-2,"Western Bulldogs","2017",6
+46,"Jong, Lin",9,3,7,16,0,0,0,7,0,5,3,0,2,0,0,5,10,1,1,2,0,0,76,-2,"Western Bulldogs","2017",6
+21,"Liberatore, Tom",6,3,5,11,0,1,0,7,0,3,2,1,4,0,0,7,6,0,1,2,0,0,66,-2,"Western Bulldogs","2017",6
+11,"Macrae, Jack",10,1,16,26,0,1,0,8,1,3,3,2,4,1,0,15,11,0,0,3,1,0,89,-2,"Western Bulldogs","2017",6
+16,"McLean, Toby",11,1,11,22,0,2,0,5,0,5,5,2,1,1,0,10,13,0,0,1,0,0,72,-2,"Western Bulldogs","2017",6
+2,"Murphy, Robert",14,3,7,21,0,0,0,2,5,4,0,1,1,0,0,4,16,0,0,1,1,0,80,-2,"Western Bulldogs","2017",6
+42,"Picken, Liam",4,3,11,15,0,1,0,4,0,3,1,1,0,0,0,8,8,0,0,1,0,0,82,-2,"Western Bulldogs","2017",6
+18,"Roberts, Fletcher",7,2,3,10,0,0,0,0,3,0,0,1,2,0,0,3,5,0,0,8,0,0,95,-2,"Western Bulldogs","2017",6
+14,"Smith, Clay",4,2,6,10,0,1,0,2,0,1,1,2,1,1,0,5,4,0,1,0,0,0,77,-2,"Western Bulldogs","2017",6
+9,"Stringer, Jake",8,0,5,13,3,2,0,2,0,1,3,4,1,2,0,9,2,0,0,3,0,0,79,-2,"Western Bulldogs","2017",6
+1,"Suckling, Matt",15,6,7,22,1,0,0,1,3,6,1,3,0,0,0,6,16,0,0,2,0,0,85,-2,"Western Bulldogs","2017",6
+34,"Williams, Bailey",9,3,2,11,0,0,0,3,1,3,0,2,0,1,0,1,9,0,0,3,2,0,71,-2,"Western Bulldogs","2017",6
+10,"Wood, Easton",7,6,4,11,0,0,0,1,3,3,0,3,2,2,0,7,4,2,0,6,1,0,86,-2,"Western Bulldogs","2017",6
+0,"Rushed",0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,"Western Bulldogs","2017",6

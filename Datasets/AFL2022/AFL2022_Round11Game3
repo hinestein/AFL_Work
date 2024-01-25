@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+24,"Adams, Marcus",9,7,6,15,0,0,0,2,4,0,0,4,1,2,0,7,9,1,0,6,0,0,91,14,"Brisbane Lions","2022",11
+4,"Ah Chee, Callum",7,2,6,13,0,2,0,3,0,2,1,2,0,2,0,7,6,0,0,1,0,1,73,14,"Brisbane Lions","2022",11
+31,"Andrews, Harris",8,7,4,12,0,0,0,3,1,1,0,1,1,0,0,4,7,1,0,5,0,0,94,14,"Brisbane Lions","2022",11
+43,"Answerth, Noah",10,2,5,15,0,0,0,4,3,4,1,1,2,1,0,3,11,0,0,2,0,0,89,14,"Brisbane Lions","2022",11
+33,"Bailey, Zac",12,3,8,20,1,2,0,1,2,5,2,4,1,2,0,10,11,0,1,1,0,0,79,14,"Brisbane Lions","2022",11
+7,"Berry, Jarrod",20,10,13,33,1,2,0,3,1,8,3,3,0,1,1,10,23,2,0,0,0,1,77,14,"Brisbane Lions","2022",11
+23,"Cameron, Charlie",11,6,2,13,1,0,0,1,1,2,0,2,0,1,0,5,8,1,5,1,0,1,85,14,"Brisbane Lions","2022",11
+18,"Coleman, Keidean",11,2,5,16,0,0,0,1,4,5,0,2,1,0,0,5,10,0,0,3,3,0,66,14,"Brisbane Lions","2022",11
+32,"Fort, Darcy",3,2,2,5,0,0,12,1,0,0,0,0,0,0,0,6,1,1,1,6,0,0,77,14,"Brisbane Lions","2022",11
+27,"Gardiner, Darcy",12,4,5,17,0,0,0,1,5,0,0,2,1,2,0,6,10,0,0,7,0,0,89,14,"Brisbane Lions","2022",11
+30,"Hipwood, Eric",6,4,4,10,1,1,0,2,1,0,0,2,0,0,0,3,8,0,2,4,0,1,78,14,"Brisbane Lions","2022",11
+17,"Lyons, Jarryd",7,0,10,17,0,0,0,7,0,2,4,2,3,0,0,9,7,0,0,3,0,2,76,14,"Brisbane Lions","2022",11
+11,"McCarthy, Lincoln",5,5,7,12,4,0,0,0,0,0,1,2,0,0,0,6,6,1,3,2,0,0,82,14,"Brisbane Lions","2022",11
+46,"McInerney, Oscar",6,1,7,13,0,0,39,4,1,2,4,0,3,0,0,8,4,0,0,2,0,0,78,14,"Brisbane Lions","2022",11
+25,"McStay, Daniel",6,5,8,14,2,0,0,0,0,4,1,2,0,0,0,4,10,1,2,3,0,0,85,14,"Brisbane Lions","2022",11
+9,"Neale, Lachie",19,5,20,39,2,0,0,6,3,2,9,7,1,2,3,19,23,0,0,1,1,0,84,14,"Brisbane Lions","2022",11
+20,"Prior, Jaxon",13,4,4,17,0,2,0,4,2,2,2,6,1,1,0,9,8,1,1,0,0,0,83,14,"Brisbane Lions","2022",11
+16,"Rayner, Cam",14,4,11,25,1,0,0,0,0,5,6,4,0,1,0,12,14,1,0,0,1,2,83,14,"Brisbane Lions","2022",11
+10,"Rich, Daniel",8,1,5,13,0,0,0,0,3,4,1,1,0,0,0,5,6,0,0,3,0,1,82,14,"Brisbane Lions","2022",11
+2,"Robertson, Deven",12,4,5,17,2,0,0,2,2,4,2,3,2,0,0,9,9,1,0,2,0,2,78,14,"Brisbane Lions","2022",11
+5,"Robinson, Mitch",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,"Brisbane Lions","2022",11
+37,"Starcevich, Brandon",10,4,3,13,1,0,0,0,2,3,0,3,2,2,0,3,10,0,0,4,0,0,89,14,"Brisbane Lions","2022",11
+15,"Zorko, Dayne",6,3,8,14,0,0,0,3,0,5,0,6,0,2,0,5,10,0,0,0,0,0,83,14,"Brisbane Lions","2022",11
+7,"Ash, Lachie",12,6,5,17,0,0,0,3,3,2,1,3,0,0,0,5,12,0,0,3,0,0,87,-14,"Greater Western Sydney","2022",11
+31,"Brander, Jarrod",7,4,10,17,0,0,0,1,0,3,1,4,2,2,0,7,11,1,0,2,0,0,80,-14,"Greater Western Sydney","2022",11
+5,"Bruhn, Tanner",6,1,3,9,0,0,0,3,0,3,2,1,2,1,0,3,6,0,0,1,1,0,59,-14,"Greater Western Sydney","2022",11
+3,"Coniglio, Stephen",15,6,10,25,1,0,0,5,0,4,9,3,2,1,0,14,10,0,0,0,1,0,83,-14,"Greater Western Sydney","2022",11
+13,"Cumming, Isaac",25,6,4,29,0,0,0,1,9,3,0,2,2,0,0,7,14,0,0,4,1,1,84,-14,"Greater Western Sydney","2022",11
+24,"de Boer, Matt",4,0,5,9,0,0,0,2,0,4,0,3,0,1,0,3,6,0,0,1,0,1,87,-14,"Greater Western Sydney","2022",11
+30,"Flynn, Matt",7,3,7,14,1,0,19,4,1,1,5,4,1,2,0,8,6,0,1,3,0,0,74,-14,"Greater Western Sydney","2022",11
+4,"Greene, Toby",12,4,3,15,4,2,0,2,0,4,0,5,0,1,0,6,10,1,1,2,1,0,96,-14,"Greater Western Sydney","2022",11
+12,"Green, Tom",10,2,11,21,0,0,0,4,0,3,6,6,2,2,0,11,13,0,0,2,0,2,89,-14,"Greater Western Sydney","2022",11
+37,"Hill, Bobby",5,2,1,6,1,0,0,4,1,2,0,3,0,1,0,1,4,0,1,0,0,1,71,-14,"Greater Western Sydney","2022",11
+27,"Himmelberg, Harry",20,7,1,21,0,0,0,4,11,2,0,2,2,0,0,3,13,1,0,10,1,1,92,-14,"Greater Western Sydney","2022",11
+23,"Hogan, Jesse",10,9,2,12,2,1,0,2,1,3,0,2,1,0,0,6,6,4,2,3,0,0,81,-14,"Greater Western Sydney","2022",11
+39,"Idun, Connor",9,7,5,14,0,0,0,1,6,2,0,0,0,0,0,4,10,0,0,4,1,0,88,-14,"Greater Western Sydney","2022",11
+25,"Keeffe, Lachlan",4,2,1,5,0,0,0,2,1,0,0,2,0,1,0,2,4,0,0,7,0,0,93,-14,"Greater Western Sydney","2022",11
+22,"Kelly, Josh",11,6,20,31,2,0,0,5,3,2,6,2,0,1,2,11,19,0,1,1,1,0,86,-14,"Greater Western Sydney","2022",11
+0,"OHalloran, Xavier",3,2,2,5,0,0,0,1,0,1,1,0,0,0,0,2,5,0,0,1,0,0,54,-14,"Greater Western Sydney","2022",11
+20,"Peatling, James",13,6,3,16,3,1,0,2,0,5,1,3,2,1,0,6,10,0,0,0,2,1,83,-14,"Greater Western Sydney","2022",11
+36,"Perryman, Harry",10,1,12,22,0,0,0,6,2,0,4,3,0,1,0,10,12,0,0,4,0,1,84,-14,"Greater Western Sydney","2022",11
+26,"Riccardi, Jake",7,4,2,9,1,0,0,0,1,2,0,1,1,0,0,6,4,1,1,1,0,1,83,-14,"Greater Western Sydney","2022",11
+28,"Sproule, Zach",7,2,1,8,0,1,3,1,0,3,1,5,0,3,0,2,5,0,0,0,0,1,57,-14,"Greater Western Sydney","2022",11
+15,"Taylor, Sam",8,6,7,15,0,0,0,2,1,0,0,2,1,0,0,6,8,2,0,4,0,0,90,-14,"Greater Western Sydney","2022",11
+0,"Ward, Callan",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,24,-14,"Greater Western Sydney","2022",11
+10,"Wehr, Jacob",10,4,2,12,0,0,0,5,3,1,0,2,1,1,0,3,10,0,0,3,0,0,74,-14,"Greater Western Sydney","2022",11

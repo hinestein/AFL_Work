@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+18,"Cameron, Jeremy",10,5,3,13,4,2,0,0,0,2,1,5,1,3,0,7,9,0,4,2,0,0,93,72,"Greater Western Sydney","2019",1
+3,"Coniglio, Stephen",24,9,7,31,3,1,0,7,2,8,5,6,1,0,2,9,23,0,1,1,0,2,90,72,"Greater Western Sydney","2019",1
+16,"Daniels, Brent",9,3,8,17,0,2,0,7,0,2,2,0,2,0,0,9,8,1,2,0,0,1,88,72,"Greater Western Sydney","2019",1
+1,"Davis, Phil",7,4,5,12,0,0,0,3,3,1,0,0,3,0,0,8,6,0,0,6,0,0,85,72,"Greater Western Sydney","2019",1
+24,"de Boer, Matt",5,0,11,16,0,1,0,6,1,2,1,2,0,0,0,9,7,0,0,0,0,0,84,72,"Greater Western Sydney","2019",1
+7,"Deledio, Brett",6,6,8,14,0,1,0,7,1,3,0,0,0,0,0,3,11,0,0,1,0,0,79,72,"Greater Western Sydney","2019",1
+31,"Finlayson, Jeremy",8,5,1,9,0,1,0,0,1,0,0,1,1,0,0,3,7,0,1,10,0,0,82,72,"Greater Western Sydney","2019",1
+4,"Greene, Toby",12,5,2,14,1,1,0,0,0,1,0,2,2,0,0,6,9,0,1,0,0,1,71,72,"Greater Western Sydney","2019",1
+27,"Himmelberg, Harry",7,3,7,14,1,0,0,0,0,3,1,2,0,0,0,3,11,0,2,3,0,3,88,72,"Greater Western Sydney","2019",1
+2,"Hopper, Jacob",17,6,11,28,0,2,0,3,3,9,7,1,3,0,0,15,12,0,0,1,0,0,81,72,"Greater Western Sydney","2019",1
+25,"Keeffe, Lachlan",5,2,3,8,3,2,0,2,1,0,0,0,2,0,0,6,2,1,2,4,0,0,78,72,"Greater Western Sydney","2019",1
+40,"Kennedy, Adam",12,6,4,16,0,0,0,1,6,3,0,2,0,1,0,4,13,1,0,2,4,0,86,72,"Greater Western Sydney","2019",1
+38,"Lloyd, Daniel",6,4,7,13,2,0,0,2,0,2,0,1,0,0,0,8,4,1,1,0,0,0,81,72,"Greater Western Sydney","2019",1
+36,"Perryman, Harry",5,3,1,6,0,2,0,0,1,2,0,1,0,1,0,2,4,1,1,0,0,0,38,72,"Greater Western Sydney","2019",1
+50,"Reid, Sam",5,4,10,15,0,0,0,3,3,1,3,3,3,1,0,9,7,0,0,2,0,0,85,72,"Greater Western Sydney","2019",1
+23,"Shaw, Heath",16,7,3,19,0,1,0,1,3,0,0,2,0,1,0,3,13,0,1,3,0,0,89,72,"Greater Western Sydney","2019",1
+26,"Simpson, Dawson",4,2,4,8,0,0,32,3,5,0,2,2,1,1,1,5,3,1,0,2,0,0,70,72,"Greater Western Sydney","2019",1
+14,"Taranto, Tim",21,3,9,30,2,0,0,10,3,7,7,8,1,2,0,13,15,0,0,1,0,2,84,72,"Greater Western Sydney","2019",1
+15,"Taylor, Sam",5,3,12,17,0,0,0,3,4,0,0,1,2,1,0,9,8,1,0,6,0,0,83,72,"Greater Western Sydney","2019",1
+20,"Tomlinson, Adam",16,8,7,23,0,0,4,1,0,4,1,3,0,1,0,9,13,0,0,2,0,2,89,72,"Greater Western Sydney","2019",1
+6,"Whitfield, Lachie",19,7,11,30,0,0,0,2,5,5,5,2,1,0,3,9,19,0,0,0,2,0,90,72,"Greater Western Sydney","2019",1
+29,"Williams, Zac",11,4,7,18,0,0,0,2,5,0,1,1,0,0,0,7,10,0,0,1,0,0,86,72,"Greater Western Sydney","2019",1
+0,"Totals",230,99,141,371,16,16,36,63,47,55,36,45,23,12,6,156,214,7,16,47,6,11,0,72,"Greater Western Sydney","2019",1
+29,"Ambrose, Patrick",3,2,4,7,0,0,0,3,0,0,0,2,1,1,0,4,3,0,0,6,0,0,90,-72,"Essendon","2019",1
+12,"Baguley, Mark",5,5,3,8,1,0,0,2,0,3,0,5,0,3,0,1,7,0,1,1,0,0,83,-72,"Essendon","2019",1
+2,"Bellchambers, Tom",5,0,2,7,0,1,31,0,1,1,4,2,2,1,0,5,2,0,0,0,0,0,82,-72,"Essendon","2019",1
+28,"Brown, Mitch",6,4,3,9,0,1,0,0,0,0,0,0,1,0,0,3,7,0,1,1,0,1,98,-72,"Essendon","2019",1
+13,"Fantasia, Orazio",6,2,3,9,0,3,0,3,0,2,2,3,1,2,0,5,5,1,0,0,0,0,68,-72,"Essendon","2019",1
+10,"Francis, Aaron",6,4,5,11,1,0,0,1,1,1,0,2,0,1,0,3,7,1,1,4,0,0,79,-72,"Essendon","2019",1
+35,"Guelfi, Matt",4,1,3,7,0,0,0,3,0,3,1,1,0,0,0,5,2,0,0,3,0,0,79,-72,"Essendon","2019",1
+21,"Heppell, Dyson",16,8,9,25,0,0,0,4,4,6,3,2,1,0,0,6,18,1,0,0,0,0,81,-72,"Essendon","2019",1
+18,"Hurley, Michael",14,7,3,17,0,0,0,0,8,0,0,2,2,1,0,2,12,0,0,4,0,0,93,-72,"Essendon","2019",1
+4,"Langford, Kyle",12,4,6,18,2,1,0,2,1,2,1,2,0,0,0,5,12,0,2,3,1,0,87,-72,"Essendon","2019",1
+43,"McDonald-Tipungwuti, Anthony",3,1,2,5,0,0,0,5,0,5,1,3,0,2,0,3,3,0,0,0,1,1,84,-72,"Essendon","2019",1
+1,"McGrath, Andrew",14,4,9,23,0,0,0,3,4,3,4,3,0,0,0,8,14,0,0,0,1,0,75,-72,"Essendon","2019",1
+45,"McKenna, Conor",9,2,5,14,0,0,0,2,3,2,3,4,0,1,0,3,7,0,0,2,2,1,81,-72,"Essendon","2019",1
+44,"McKernan, Shaun",5,1,0,5,0,1,10,1,0,1,2,2,0,1,0,3,1,0,0,1,0,0,86,-72,"Essendon","2019",1
+7,"Merrett, Zach",5,1,11,16,0,0,0,3,3,3,1,1,1,1,0,5,11,0,0,1,0,0,77,-72,"Essendon","2019",1
+23,"Myers, David",7,2,5,12,0,1,0,5,0,4,3,1,0,1,0,5,6,0,0,0,0,1,68,-72,"Essendon","2019",1
+14,"Ridley, Jordan",10,6,4,14,0,0,0,1,4,0,1,1,0,1,0,4,7,0,0,0,0,0,85,-72,"Essendon","2019",1
+42,"Saad, Adam",12,3,7,19,0,0,0,5,5,1,0,1,0,1,0,8,9,0,0,9,4,0,82,-72,"Essendon","2019",1
+9,"Shiel, Dylan",10,2,15,25,0,1,0,2,1,4,7,2,0,0,0,18,9,0,0,1,0,0,76,-72,"Essendon","2019",1
+5,"Smith, Devon",15,6,8,23,0,0,0,4,1,6,3,4,1,1,0,7,14,0,1,1,1,1,78,-72,"Essendon","2019",1
+25,"Stringer, Jake",7,1,3,10,1,0,0,7,0,3,1,4,1,2,0,4,6,0,0,0,1,0,79,-72,"Essendon","2019",1
+11,"Zaharakis, David",13,7,12,25,0,0,0,2,1,2,3,5,1,3,0,9,16,0,0,0,0,0,90,-72,"Essendon","2019",1
+0,"Rushed",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72,"Essendon","2019",1

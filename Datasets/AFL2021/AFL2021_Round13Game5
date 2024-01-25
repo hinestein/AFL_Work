@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+18,"Atley, Shaun",13,9,9,22,0,0,0,1,3,1,0,1,0,1,0,2,20,0,0,1,1,0,80,0,"North Melbourne","2021",13
+10,"Cunnington, Ben",14,4,11,25,2,0,0,5,2,4,9,3,5,0,2,14,11,0,2,0,0,0,83,0,"North Melbourne","2021",13
+9,"Davies-Uniacke, Luke",7,4,10,17,1,0,0,4,0,2,6,1,0,1,0,9,9,0,0,0,1,1,83,0,"North Melbourne","2021",13
+14,"Dumont, Trent",12,7,10,22,0,0,0,3,2,3,1,4,0,2,0,8,15,0,0,0,0,0,83,0,"North Melbourne","2021",13
+6,"Garner, Taylor",5,3,2,7,0,0,0,2,0,2,0,3,0,2,0,1,6,1,1,1,0,1,79,0,"North Melbourne","2021",13
+22,"Goldstein, Todd",9,6,5,14,1,0,29,3,0,2,4,4,2,3,0,6,9,1,1,10,0,1,95,0,"North Melbourne","2021",13
+43,"Hall, Aaron",27,6,8,35,0,1,0,4,9,7,0,4,1,0,1,6,24,1,0,2,0,0,84,0,"North Melbourne","2021",13
+20,"Larkey, Nick",6,5,3,9,2,0,0,0,0,2,0,4,1,0,0,4,5,2,3,0,0,2,84,0,"North Melbourne","2021",13
+1,"Mahony, Jack",7,2,8,15,1,1,0,4,0,0,1,2,1,0,0,8,6,0,2,0,1,0,69,0,"North Melbourne","2021",13
+23,"McKay, Ben",4,3,2,6,0,0,0,3,4,0,0,0,0,0,0,0,4,0,0,9,0,0,92,0,"North Melbourne","2021",13
+24,"Powell, Tom",9,4,2,11,1,0,0,4,1,3,1,0,0,0,0,1,10,0,0,0,0,1,66,0,"North Melbourne","2021",13
+8,"Scott, Bailey",6,3,3,9,1,1,0,3,0,2,0,3,0,0,0,4,5,0,0,0,0,0,82,0,"North Melbourne","2021",13
+12,"Simpkin, Jy",18,6,13,31,0,0,0,8,1,6,7,5,2,2,0,10,21,0,1,1,0,2,78,0,"North Melbourne","2021",13
+2,"Stephenson, Jaidyn",15,8,3,18,1,1,0,1,2,4,0,2,1,0,0,3,15,0,2,0,0,0,80,0,"North Melbourne","2021",13
+25,"Tarrant, Robbie",8,4,6,14,0,0,0,3,2,0,0,4,1,1,0,3,9,1,0,8,0,0,82,0,"North Melbourne","2021",13
+5,"Taylor, Curtis",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"North Melbourne","2021",13
+26,"Thomas, Tarryn",10,4,9,19,2,0,0,2,1,6,1,5,1,2,0,6,13,0,1,0,0,2,75,0,"North Melbourne","2021",13
+28,"Turner, Kayne",7,5,9,16,0,0,0,2,4,1,1,3,1,2,0,7,9,0,0,2,0,0,85,0,"North Melbourne","2021",13
+19,"Walker, Josh",6,6,5,11,0,0,0,0,1,1,0,2,0,0,0,3,8,0,0,4,1,0,96,0,"North Melbourne","2021",13
+38,"Xerri, Tristan",4,2,4,8,0,0,5,1,0,1,0,3,0,2,0,7,2,2,1,3,0,0,72,0,"North Melbourne","2021",13
+17,"Young, Lachie",5,4,4,9,0,0,0,1,0,2,1,3,0,1,0,4,5,1,0,0,0,0,89,0,"North Melbourne","2021",13
+7,"Ziebell, Jack",17,6,9,26,0,0,0,1,6,0,0,2,0,0,0,5,17,1,0,3,0,0,85,0,"North Melbourne","2021",13
+44,"Zurhaar, Cameron",11,4,5,16,2,2,0,5,0,2,4,1,2,1,0,9,7,0,2,2,0,0,80,0,"North Melbourne","2021",13
+7,"Ash, Lachie",15,6,1,16,0,0,0,3,4,1,0,1,0,0,0,0,11,0,0,3,0,0,82,0,"Greater Western Sydney","2021",13
+44,"Buckley, Jack",10,7,2,12,0,0,0,2,2,2,0,2,1,0,0,5,8,2,0,5,0,0,96,0,"Greater Western Sydney","2021",13
+13,"Cumming, Isaac",22,1,2,24,0,0,0,4,6,2,0,6,0,0,0,5,10,1,0,1,0,0,83,0,"Greater Western Sydney","2021",13
+24,"de Boer, Matt",4,2,6,10,0,0,0,4,0,3,0,5,0,2,0,2,7,0,0,1,0,1,77,0,"Greater Western Sydney","2021",13
+31,"Finlayson, Jeremy",7,2,2,9,2,0,0,1,0,2,0,1,0,0,0,3,6,0,0,1,0,0,79,0,"Greater Western Sydney","2021",13
+30,"Flynn, Matt",3,6,9,12,2,0,5,2,0,0,1,1,2,1,0,10,4,4,5,5,0,1,73,0,"Greater Western Sydney","2021",13
+4,"Greene, Toby",13,4,3,16,1,4,0,5,0,6,1,1,2,0,0,10,6,2,1,2,1,2,86,0,"Greater Western Sydney","2021",13
+12,"Green, Tom",7,5,11,18,0,1,0,2,2,2,3,4,1,0,0,8,10,0,1,0,0,0,78,0,"Greater Western Sydney","2021",13
+19,"Haynes, Nick",16,14,10,26,0,0,0,0,4,2,1,2,0,1,0,7,20,1,0,4,1,0,80,0,"Greater Western Sydney","2021",13
+37,"Hill, Bobby",5,1,0,5,1,0,0,2,0,2,0,1,0,0,0,1,3,0,0,0,0,0,75,0,"Greater Western Sydney","2021",13
+27,"Himmelberg, Harry",12,4,4,16,2,1,0,1,0,2,0,1,1,1,0,8,11,1,1,2,0,2,95,0,"Greater Western Sydney","2021",13
+2,"Hopper, Jacob",14,1,8,22,0,0,0,0,2,4,7,3,0,3,0,10,11,0,0,3,0,0,79,0,"Greater Western Sydney","2021",13
+39,"Idun, Connor",8,5,6,14,0,0,0,4,3,0,0,1,3,0,0,4,10,0,0,6,0,0,85,0,"Greater Western Sydney","2021",13
+22,"Kelly, Josh",23,5,16,39,2,1,0,6,3,8,6,6,2,1,3,17,23,0,0,2,1,0,85,0,"Greater Western Sydney","2021",13
+40,"Kennedy, Adam",6,3,5,11,0,0,0,2,3,1,0,2,0,1,0,5,6,0,0,1,0,0,81,0,"Greater Western Sydney","2021",13
+38,"Lloyd, Daniel",10,3,4,14,2,0,0,0,1,2,0,2,1,0,0,6,8,0,1,0,0,0,81,0,"Greater Western Sydney","2021",13
+41,"Mumford, Shane",1,1,6,7,0,0,23,4,0,1,5,2,2,2,0,7,1,0,0,2,0,0,72,0,"Greater Western Sydney","2021",13
+33,"OHalloran, Xavier",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Greater Western Sydney","2021",13
+50,"Reid, Sam",8,4,7,15,0,0,0,3,2,1,0,2,0,1,0,6,7,0,0,0,0,1,91,0,"Greater Western Sydney","2021",13
+42,"Stein, Jake",4,3,0,4,0,0,0,0,0,0,0,1,0,0,0,3,2,1,0,7,0,0,83,0,"Greater Western Sydney","2021",13
+14,"Taranto, Tim",18,5,8,26,1,0,0,4,1,2,6,6,2,2,0,17,12,0,0,3,0,0,78,0,"Greater Western Sydney","2021",13
+8,"Ward, Callan",11,4,8,19,1,0,0,4,0,5,3,3,2,2,0,9,11,1,0,1,0,0,77,0,"Greater Western Sydney","2021",13
+6,"Whitfield, Lachie",15,6,6,21,0,0,0,1,3,5,1,3,1,1,0,5,16,0,0,2,0,1,85,0,"Greater Western Sydney","2021",13

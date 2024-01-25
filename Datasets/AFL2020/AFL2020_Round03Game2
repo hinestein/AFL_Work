@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+4,"Bontempelli, Marcus",9,3,7,16,1,0,1,5,0,4,3,5,1,2,0,6,10,0,0,3,0,1,94,24,"Western Bulldogs","2020",3
+17,"Bruce, Josh",3,2,3,6,0,0,0,1,0,1,0,3,0,1,0,2,4,1,2,1,0,0,86,24,"Western Bulldogs","2020",3
+12,"Cordy, Zaine",7,6,2,9,0,0,3,3,2,1,0,2,0,0,0,1,9,0,0,3,0,0,97,24,"Western Bulldogs","2020",3
+9,"Crozier, Hayden",12,2,4,16,0,0,0,5,2,0,1,2,0,1,0,5,13,0,0,5,0,0,85,24,"Western Bulldogs","2020",3
+31,"Dale, Bailey",7,4,3,10,1,0,0,0,0,0,0,4,1,1,0,3,7,0,1,2,0,1,72,24,"Western Bulldogs","2020",3
+35,"Daniel, Caleb",17,6,6,23,0,0,0,1,6,1,1,0,1,0,1,6,13,0,0,0,1,0,84,24,"Western Bulldogs","2020",3
+5,"Dunkley, Josh",4,2,12,16,1,0,2,6,0,1,3,2,3,2,0,12,5,0,0,1,0,1,76,24,"Western Bulldogs","2020",3
+44,"English, Tim",10,7,5,15,0,2,11,1,2,3,1,2,2,1,0,7,8,1,0,4,0,1,88,24,"Western Bulldogs","2020",3
+39,"Johannisen, Jason",14,4,6,20,0,1,0,3,3,1,0,2,2,0,0,7,11,0,0,2,2,0,86,24,"Western Bulldogs","2020",3
+46,"Jong, Lin",2,3,9,11,0,1,0,4,0,0,1,1,0,1,0,4,6,0,0,1,0,0,68,24,"Western Bulldogs","2020",3
+42,"Keath, Alex",9,5,5,14,1,0,0,1,3,0,0,1,2,0,0,7,8,1,0,5,0,0,100,24,"Western Bulldogs","2020",3
+21,"Liberatore, Tom",9,3,9,18,1,0,0,1,0,2,4,2,1,1,0,8,10,0,0,1,0,0,75,24,"Western Bulldogs","2020",3
+22,"Lloyd, Sam",2,3,5,7,0,0,0,1,0,1,0,2,0,1,0,1,6,0,2,0,0,0,81,24,"Western Bulldogs","2020",3
+11,"Macrae, Jack",10,5,15,25,0,0,0,7,0,5,4,1,2,0,3,11,14,0,0,0,1,0,75,24,"Western Bulldogs","2020",3
+16,"McLean, Toby",8,3,9,17,0,0,0,3,2,4,1,2,2,1,0,4,12,0,0,0,0,0,80,24,"Western Bulldogs","2020",3
+33,"Naughton, Aaron",5,5,4,9,0,1,0,0,0,1,0,0,0,0,0,4,6,1,1,2,0,0,90,24,"Western Bulldogs","2020",3
+20,"Richards, Ed",8,0,1,9,1,0,0,3,0,5,0,1,1,0,0,4,5,0,0,1,1,1,83,24,"Western Bulldogs","2020",3
+6,"Smith, Bailey",11,0,6,17,1,1,0,3,1,4,1,2,2,2,0,3,14,0,0,0,2,0,80,24,"Western Bulldogs","2020",3
+1,"Suckling, Matt",9,3,3,12,0,0,0,1,1,3,0,1,4,0,0,4,7,0,0,0,0,0,69,24,"Western Bulldogs","2020",3
+23,"Vandermeer, Laitham",5,2,5,10,0,0,0,3,1,2,1,2,0,2,0,2,8,0,1,1,0,0,76,24,"Western Bulldogs","2020",3
+3,"Wallis, Mitch",4,3,4,8,1,1,0,3,0,1,0,1,2,0,0,5,3,1,1,0,0,0,70,24,"Western Bulldogs","2020",3
+34,"Williams, Bailey",12,6,3,15,0,0,0,0,1,4,0,1,0,0,0,2,13,0,0,3,0,0,84,24,"Western Bulldogs","2020",3
+0,"Rushed",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,"Western Bulldogs","2020",3
+7,"Ash, Lachie",5,3,2,7,0,0,0,0,1,0,0,0,0,0,0,1,7,0,0,3,0,0,86,-24,"Greater Western Sydney","2020",3
+5,"Caldwell, Jye",7,8,7,14,0,0,0,4,0,3,1,2,0,0,0,6,8,1,2,0,0,0,71,-24,"Greater Western Sydney","2020",3
+18,"Cameron, Jeremy",6,4,2,8,1,0,0,1,0,2,0,3,0,2,0,3,5,2,2,3,0,1,90,-24,"Greater Western Sydney","2020",3
+3,"Coniglio, Stephen",15,2,9,24,0,1,0,1,0,3,5,3,1,1,0,12,11,0,0,0,2,0,92,-24,"Greater Western Sydney","2020",3
+35,"Corr, Aidan",13,11,3,16,0,0,0,1,1,2,0,2,0,1,0,3,12,1,0,3,0,0,82,-24,"Greater Western Sydney","2020",3
+16,"Daniels, Brent",7,2,2,9,0,0,0,2,0,2,0,2,1,2,0,4,7,0,0,1,0,0,74,-24,"Greater Western Sydney","2020",3
+1,"Davis, Phil",8,6,4,12,0,0,0,1,4,0,0,1,1,0,0,1,9,0,0,3,0,0,94,-24,"Greater Western Sydney","2020",3
+24,"de Boer, Matt",3,1,6,9,0,0,0,3,0,1,3,1,2,0,0,4,5,0,0,0,0,0,85,-24,"Greater Western Sydney","2020",3
+31,"Finlayson, Jeremy",5,2,1,6,1,1,2,1,0,1,1,1,0,0,0,4,1,1,1,0,0,0,84,-24,"Greater Western Sydney","2020",3
+9,"Hately, Jackson",12,7,9,21,0,0,0,2,3,3,0,1,0,1,0,3,18,0,0,2,0,0,86,-24,"Greater Western Sydney","2020",3
+19,"Haynes, Nick",14,11,3,17,0,0,0,0,3,0,0,3,0,1,0,3,15,2,0,3,2,0,82,-24,"Greater Western Sydney","2020",3
+27,"Himmelberg, Harry",3,2,4,7,0,1,0,0,1,0,0,2,0,1,0,5,2,1,0,0,0,0,87,-24,"Greater Western Sydney","2020",3
+2,"Hopper, Jacob",14,3,4,18,0,0,0,5,4,3,3,6,2,3,0,8,10,0,0,0,0,0,81,-24,"Greater Western Sydney","2020",3
+10,"Jacobs, Sam",4,1,2,6,0,0,24,0,1,0,4,1,0,0,0,5,1,0,0,3,0,0,84,-24,"Greater Western Sydney","2020",3
+17,"Langdon, Zac",2,1,2,4,0,1,0,4,0,1,0,2,1,2,0,3,1,0,1,0,0,0,80,-24,"Greater Western Sydney","2020",3
+38,"Lloyd, Daniel",4,2,3,7,0,0,0,5,1,0,0,4,0,2,0,5,2,0,0,0,0,0,90,-24,"Greater Western Sydney","2020",3
+36,"Perryman, Harry",17,8,6,23,2,0,0,2,4,4,3,2,1,1,2,10,13,1,2,3,0,1,89,-24,"Greater Western Sydney","2020",3
+23,"Shaw, Heath",12,9,5,17,0,0,0,0,6,0,0,6,0,3,0,3,12,0,0,0,0,0,87,-24,"Greater Western Sydney","2020",3
+15,"Taylor, Sam",5,5,8,13,0,1,0,4,2,0,1,3,4,1,0,8,6,1,0,6,0,0,92,-24,"Greater Western Sydney","2020",3
+8,"Ward, Callan",13,8,6,19,0,0,1,1,1,4,3,2,2,1,0,8,12,1,0,2,0,0,83,-24,"Greater Western Sydney","2020",3
+6,"Whitfield, Lachie",2,1,2,4,0,0,0,0,1,0,0,2,0,1,0,1,2,0,0,0,0,0,22,-24,"Greater Western Sydney","2020",3
+29,"Williams, Zac",9,6,0,9,0,0,0,2,2,0,0,3,1,3,0,2,7,0,0,2,2,0,79,-24,"Greater Western Sydney","2020",3
+0,"Rushed",0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24,"Greater Western Sydney","2020",3

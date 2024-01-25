@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+16,"Aarts, Jake",8,0,5,13,2,0,0,2,1,2,3,2,0,1,0,6,7,0,0,0,0,1,74,4,"Richmond","2021",9
+12,"Astbury, David",9,7,5,14,0,0,0,0,1,1,0,0,1,0,0,3,11,0,0,2,0,0,92,4,"Richmond","2021",9
+7,"Baker, Liam",19,3,14,33,0,1,0,6,2,9,7,4,2,1,0,16,16,0,1,0,0,1,80,4,"Richmond","2021",9
+21,"Balta, Noah",3,3,3,6,0,0,5,1,0,0,0,3,0,2,0,2,4,1,1,1,0,0,64,4,"Richmond","2021",9
+35,"Broad, Nathan",11,6,8,19,0,0,0,2,3,2,0,0,1,0,0,6,12,1,0,3,0,0,100,4,"Richmond","2021",9
+11,"Castagna, Jason",8,8,8,16,1,0,0,4,0,1,1,1,0,0,0,4,12,0,1,0,0,0,89,4,"Richmond","2021",9
+26,"Collier-Dawkins, Riley",12,1,6,18,2,0,0,7,0,4,4,6,1,2,0,9,8,0,1,0,0,1,80,4,"Richmond","2021",9
+34,"Graham, Jack",7,3,16,23,0,0,0,7,1,2,3,5,1,1,0,10,13,0,0,0,0,0,78,4,"Richmond","2021",9
+2,"Grimes, Dylan",8,5,7,15,0,0,0,3,3,1,1,1,1,0,1,6,9,1,0,7,0,0,89,4,"Richmond","2021",9
+14,"Houli, Bachar",8,5,13,21,0,0,0,5,2,1,1,4,0,1,0,5,16,0,0,2,0,0,82,4,"Richmond","2021",9
+19,"Lynch, Tom",8,3,0,8,1,4,3,2,0,2,0,2,0,1,0,6,2,2,2,2,0,0,88,4,"Richmond","2021",9
+31,"Mansell, Rhyan",3,2,4,7,0,0,0,1,0,0,0,2,1,2,0,3,3,0,0,0,0,0,60,4,"Richmond","2021",9
+4,"Martin, Dustin",16,1,12,28,4,2,0,1,0,6,5,6,0,0,3,15,10,1,1,1,2,1,92,4,"Richmond","2021",9
+33,"McIntosh, Kamdyn",9,6,5,14,0,0,0,2,3,2,2,5,0,1,0,8,10,0,0,1,0,0,82,4,"Richmond","2021",9
+6,"Naish, Patrick",7,5,8,15,0,0,0,2,0,3,1,3,1,1,0,1,14,0,0,1,1,1,70,4,"Richmond","2021",9
+25,"Nankervis, Toby",10,5,6,16,1,0,29,5,3,2,7,7,1,2,0,12,4,1,0,8,0,0,85,4,"Richmond","2021",9
+50,"Pickett, Marlion",6,0,4,10,0,0,0,6,1,5,0,4,0,1,0,3,7,0,0,4,0,0,80,4,"Richmond","2021",9
+45,"Ralphsmith, Hugo",5,0,5,10,0,1,0,2,0,1,0,1,0,0,0,2,7,0,0,3,0,0,66,4,"Richmond","2021",9
+8,"Riewoldt, Jack",3,2,3,6,1,0,0,3,0,0,0,3,0,1,0,6,1,2,1,1,0,1,90,4,"Richmond","2021",9
+17,"Rioli, Daniel",4,1,7,11,1,0,0,3,0,0,1,0,2,0,0,6,6,0,1,0,0,0,84,4,"Richmond","2021",9
+5,"Ross, Jack",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,"Richmond","2021",9
+15,"Short, Jayden",19,9,8,27,0,0,0,1,5,2,0,2,0,1,0,3,17,0,0,1,0,0,89,4,"Richmond","2021",9
+1,"Vlastuin, Nick",10,7,4,14,0,0,0,4,7,0,0,2,0,1,0,3,11,0,0,2,0,0,86,4,"Richmond","2021",9
+7,"Ash, Lachie",5,2,9,14,0,0,0,2,1,2,2,2,0,0,0,6,9,0,0,0,1,0,88,-4,"Greater Western Sydney","2021",9
+32,"Briggs, Kieren",3,3,4,7,0,0,15,2,0,1,2,2,2,2,0,3,5,0,0,1,0,0,59,-4,"Greater Western Sydney","2021",9
+0,"Bruhn, Tanner",2,1,4,6,0,1,0,2,1,0,0,0,1,0,0,5,1,0,0,0,0,0,32,-4,"Greater Western Sydney","2021",9
+44,"Buckley, Jack",7,6,3,10,0,0,0,3,2,0,0,1,1,0,0,2,8,1,0,6,0,0,91,-4,"Greater Western Sydney","2021",9
+21,"Buntine, Matt",9,2,5,14,0,0,0,3,2,2,0,6,2,1,0,4,11,0,0,2,0,0,85,-4,"Greater Western Sydney","2021",9
+13,"Cumming, Isaac",13,4,7,20,0,0,0,4,4,1,0,2,0,0,0,7,11,1,0,7,1,0,79,-4,"Greater Western Sydney","2021",9
+30,"Flynn, Matt",7,4,5,12,0,1,30,9,0,2,2,4,2,1,0,7,5,1,1,3,0,0,72,-4,"Greater Western Sydney","2021",9
+4,"Greene, Toby",15,4,2,17,1,1,0,2,0,7,0,4,0,1,0,6,10,2,0,0,0,1,94,-4,"Greater Western Sydney","2021",9
+12,"Green, Tom",9,2,15,24,1,0,0,4,1,3,2,4,0,0,0,10,14,0,0,1,1,1,71,-4,"Greater Western Sydney","2021",9
+37,"Hill, Bobby",9,3,0,9,1,1,0,3,0,4,1,3,1,1,0,1,7,0,2,0,0,1,76,-4,"Greater Western Sydney","2021",9
+27,"Himmelberg, Harry",1,2,3,4,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,1,0,0,93,-4,"Greater Western Sydney","2021",9
+23,"Hogan, Jesse",12,9,4,16,4,1,0,2,0,1,0,4,3,1,0,6,11,0,5,3,0,0,73,-4,"Greater Western Sydney","2021",9
+2,"Hopper, Jacob",16,5,19,35,1,0,0,7,1,6,11,9,0,3,2,20,14,0,1,1,1,2,85,-4,"Greater Western Sydney","2021",9
+39,"Idun, Connor",8,5,4,12,0,0,0,2,6,0,0,0,0,0,0,2,9,0,0,4,0,0,85,-4,"Greater Western Sydney","2021",9
+22,"Kelly, Josh",14,3,13,27,1,1,0,8,2,3,2,3,2,1,0,12,16,0,1,2,0,1,77,-4,"Greater Western Sydney","2021",9
+38,"Lloyd, Daniel",11,7,4,15,1,1,0,5,1,4,3,2,1,0,0,5,11,0,2,1,0,0,81,-4,"Greater Western Sydney","2021",9
+33,"OHalloran, Xavier",5,3,5,10,1,1,0,0,1,2,0,0,2,0,0,5,5,0,1,0,0,0,88,-4,"Greater Western Sydney","2021",9
+0,"Perryman, Harry",10,4,5,15,0,0,0,4,1,1,1,1,1,0,0,7,8,0,1,2,0,0,50,-4,"Greater Western Sydney","2021",9
+26,"Riccardi, Jake",9,4,8,17,0,0,0,0,2,2,0,1,0,0,0,3,13,0,0,1,0,0,83,-4,"Greater Western Sydney","2021",9
+14,"Taranto, Tim",14,4,18,32,0,0,0,4,2,1,7,4,1,0,0,17,13,0,1,0,0,1,81,-4,"Greater Western Sydney","2021",9
+15,"Taylor, Sam",4,2,4,8,0,0,0,1,0,0,0,1,0,0,0,3,5,0,0,9,0,0,91,-4,"Greater Western Sydney","2021",9
+8,"Ward, Callan",10,3,15,25,1,0,0,8,3,2,6,2,0,0,0,13,11,0,1,0,0,0,86,-4,"Greater Western Sydney","2021",9
+6,"Whitfield, Lachie",17,7,7,24,0,0,0,2,2,0,1,7,0,1,0,3,20,0,0,2,0,2,81,-4,"Greater Western Sydney","2021",9

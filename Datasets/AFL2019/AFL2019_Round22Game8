@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+5,"Caldwell, Jye",6,2,4,10,0,0,0,3,0,3,3,3,0,2,0,4,6,0,0,0,0,0,73,-61,"Greater Western Sydney","2019",22
+35,"Corr, Aidan",8,3,4,12,0,0,0,3,4,0,1,1,0,1,0,3,6,0,0,3,0,0,76,-61,"Greater Western Sydney","2019",22
+16,"Daniels, Brent",6,4,10,16,0,2,0,4,0,1,2,3,0,3,0,3,13,1,1,0,1,1,80,-61,"Greater Western Sydney","2019",22
+1,"Davis, Phil",9,8,11,20,0,0,0,1,5,0,0,5,1,1,0,7,13,2,0,8,0,0,93,-61,"Greater Western Sydney","2019",22
+24,"de Boer, Matt",7,3,10,17,0,0,0,5,0,2,6,1,0,1,0,7,10,0,0,1,0,1,82,-61,"Greater Western Sydney","2019",22
+4,"Greene, Toby",15,2,9,24,2,2,0,4,0,6,6,1,0,0,0,12,11,0,2,1,3,1,76,-61,"Greater Western Sydney","2019",22
+19,"Haynes, Nick",19,9,7,26,0,0,0,0,6,0,0,1,1,0,0,8,18,2,0,4,1,0,84,-61,"Greater Western Sydney","2019",22
+37,"Hill, Bobby",6,3,2,8,0,1,0,3,0,1,0,0,0,0,0,1,7,0,1,0,0,0,66,-61,"Greater Western Sydney","2019",22
+27,"Himmelberg, Harry",7,6,2,9,2,0,0,1,0,2,0,2,0,0,0,2,7,1,1,1,0,0,87,-61,"Greater Western Sydney","2019",22
+25,"Keeffe, Lachlan",2,2,1,3,2,0,5,2,0,0,0,2,0,0,0,2,1,1,2,6,0,0,82,-61,"Greater Western Sydney","2019",22
+22,"Kelly, Josh",11,0,14,25,0,0,0,4,2,3,4,7,1,1,0,15,10,0,0,1,0,1,75,-61,"Greater Western Sydney","2019",22
+40,"Kennedy, Adam",10,3,8,18,1,0,0,4,0,1,0,0,0,0,0,5,13,0,0,2,1,0,84,-61,"Greater Western Sydney","2019",22
+36,"Perryman, Harry",8,4,7,15,0,0,0,2,1,4,0,1,0,0,0,5,9,0,0,1,0,0,84,-61,"Greater Western Sydney","2019",22
+50,"Reid, Sam",9,5,5,14,0,0,0,2,4,1,1,6,0,2,0,5,9,1,0,1,0,0,88,-61,"Greater Western Sydney","2019",22
+23,"Shaw, Heath",13,5,7,20,0,0,0,2,6,1,0,3,0,0,0,6,10,0,0,0,5,1,93,-61,"Greater Western Sydney","2019",22
+26,"Simpson, Dawson",0,0,5,5,0,0,56,2,4,0,1,3,1,1,0,5,0,0,0,3,0,1,83,-61,"Greater Western Sydney","2019",22
+28,"Sproule, Zach",4,4,1,5,0,0,0,0,0,3,0,3,0,1,0,1,4,0,0,2,0,1,81,-61,"Greater Western Sydney","2019",22
+42,"Stein, Jake",7,4,2,9,0,0,0,3,3,1,0,3,0,1,0,0,9,0,0,8,0,0,79,-61,"Greater Western Sydney","2019",22
+14,"Taranto, Tim",13,4,15,28,0,2,0,6,0,2,4,3,0,0,0,13,15,0,0,3,0,1,82,-61,"Greater Western Sydney","2019",22
+20,"Tomlinson, Adam",9,4,8,17,1,0,0,0,0,2,1,3,0,0,0,3,15,0,1,2,0,0,88,-61,"Greater Western Sydney","2019",22
+6,"Whitfield, Lachie",17,6,13,30,1,1,0,2,3,4,7,1,0,1,0,14,16,0,2,2,0,0,83,-61,"Greater Western Sydney","2019",22
+29,"Williams, Zac",21,4,6,27,0,0,0,5,5,2,5,4,1,2,0,9,20,0,0,0,3,0,80,-61,"Greater Western Sydney","2019",22
+0,"Rushed",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61,"Greater Western Sydney","2019",22
+4,"Bontempelli, Marcus",11,2,15,26,0,0,1,7,1,4,8,4,1,2,0,12,13,0,1,2,0,1,83,61,"Western Bulldogs","2019",22
+12,"Cordy, Zaine",4,2,3,7,0,0,0,2,1,0,0,0,0,0,0,4,4,0,0,6,0,0,97,61,"Western Bulldogs","2019",22
+9,"Crozier, Hayden",13,5,0,13,0,0,0,1,3,3,1,1,1,0,0,4,8,1,0,3,0,0,81,61,"Western Bulldogs","2019",22
+31,"Dale, Bailey",9,5,1,10,2,1,0,4,0,4,0,6,0,0,0,1,8,0,3,2,0,1,77,61,"Western Bulldogs","2019",22
+29,"Dickson, Tory",2,0,1,3,2,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,1,60,61,"Western Bulldogs","2019",22
+5,"Dunkley, Josh",17,6,14,31,2,0,0,10,0,4,8,1,1,0,2,13,18,0,0,5,0,1,87,61,"Western Bulldogs","2019",22
+15,"Duryea, Taylor",15,7,4,19,1,0,0,2,4,2,0,2,0,0,0,2,15,0,0,3,0,1,80,61,"Western Bulldogs","2019",22
+32,"Hayes, Will",9,1,7,16,0,0,0,7,2,3,3,2,2,1,0,6,9,0,0,0,1,0,73,61,"Western Bulldogs","2019",22
+7,"Hunter, Lachie",14,5,11,25,1,1,0,1,1,6,2,0,2,0,0,9,15,0,2,2,2,1,89,61,"Western Bulldogs","2019",22
+39,"Johannisen, Jason",15,1,12,27,0,0,0,4,6,2,1,1,1,0,1,8,13,0,0,0,2,0,87,61,"Western Bulldogs","2019",22
+27,"Lipinski, Patrick",12,7,15,27,2,0,0,7,2,3,2,2,2,0,0,10,17,0,2,0,0,1,77,61,"Western Bulldogs","2019",22
+22,"Lloyd, Sam",13,5,6,19,2,3,0,1,0,3,1,1,0,0,0,8,11,2,2,0,0,3,78,61,"Western Bulldogs","2019",22
+11,"Macrae, Jack",12,1,27,39,0,0,1,3,0,5,7,5,1,0,3,14,25,0,0,2,0,1,85,61,"Western Bulldogs","2019",22
+16,"McLean, Toby",5,4,9,14,0,0,0,4,0,2,0,1,1,0,0,8,7,1,0,1,0,1,80,61,"Western Bulldogs","2019",22
+33,"Naughton, Aaron",7,5,1,8,2,2,4,4,0,2,0,2,2,1,0,5,2,3,2,1,0,0,89,61,"Western Bulldogs","2019",22
+20,"Richards, Ed",6,1,4,10,1,0,0,5,0,4,1,1,0,0,0,6,3,0,0,2,0,0,76,61,"Western Bulldogs","2019",22
+13,"Schache, Josh",5,2,2,7,3,0,2,2,0,1,0,1,1,0,0,4,3,0,1,0,0,0,82,61,"Western Bulldogs","2019",22
+6,"Smith, Bailey",9,0,6,15,1,0,0,9,0,6,2,1,1,0,0,6,10,0,0,1,0,1,75,61,"Western Bulldogs","2019",22
+1,"Suckling, Matt",18,3,8,26,0,2,0,2,3,6,1,1,0,0,0,5,19,0,0,2,0,0,76,61,"Western Bulldogs","2019",22
+8,"Trengove, Jackson",10,2,4,14,0,1,24,2,1,2,6,2,0,1,0,8,5,1,1,1,0,0,83,61,"Western Bulldogs","2019",22
+10,"Wood, Easton",9,6,7,16,0,0,0,2,0,0,0,1,0,0,0,6,8,2,0,2,0,0,83,61,"Western Bulldogs","2019",22
+2,"Young, Lewis",12,7,5,17,0,0,0,0,6,1,0,1,1,0,0,10,8,2,0,9,0,0,100,61,"Western Bulldogs","2019",22
+0,"Rushed",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,"Western Bulldogs","2019",22

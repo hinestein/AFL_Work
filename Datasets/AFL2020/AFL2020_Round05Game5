@@ -1,0 +1,47 @@
+"Number","Player","Kicks","Marks","Handballs","Disposals","Goals","Behinds","Hitouts","Tackles","Rebounds50s","Inside50s","Clearances","Clangers","FreesFor","FreesAgainst","BrownlowVotes","ContestedPossessions","UncontestedPossessions","ContestedMarks","MarksInside50","OnePercenters","Bounces","GoalAssists","PercentagePlayed","PointDifference","Team","Season","Round"
+4,"Bontempelli, Marcus",4,1,7,11,0,1,0,4,0,1,1,3,0,1,0,5,7,0,0,4,0,0,79,49,"Western Bulldogs","2020",5
+17,"Bruce, Josh",7,6,3,10,6,0,0,0,0,3,0,0,2,0,3,6,5,3,4,2,0,1,93,49,"Western Bulldogs","2020",5
+12,"Cordy, Zaine",7,2,4,11,0,0,0,2,2,3,0,2,0,1,0,3,9,0,0,8,0,0,94,49,"Western Bulldogs","2020",5
+9,"Crozier, Hayden",11,2,4,15,0,0,0,3,3,4,1,1,2,1,0,5,12,0,0,6,0,1,82,49,"Western Bulldogs","2020",5
+31,"Dale, Bailey",7,3,5,12,1,1,0,5,0,2,1,2,0,1,0,4,7,2,3,3,0,2,87,49,"Western Bulldogs","2020",5
+35,"Daniel, Caleb",12,1,10,22,0,0,0,2,2,1,1,1,1,1,0,6,15,0,0,3,0,0,85,49,"Western Bulldogs","2020",5
+44,"English, Tim",9,8,13,22,0,1,15,2,1,1,2,1,1,1,0,9,13,3,1,2,0,0,97,49,"Western Bulldogs","2020",5
+39,"Johannisen, Jason",15,5,7,22,0,1,0,2,4,4,1,2,0,0,0,5,15,0,0,2,0,1,85,49,"Western Bulldogs","2020",5
+46,"Jong, Lin",3,4,10,13,0,0,0,1,0,0,0,2,0,2,0,5,9,3,1,1,0,0,74,49,"Western Bulldogs","2020",5
+42,"Keath, Alex",7,3,5,12,0,0,0,1,4,0,0,0,2,0,0,4,8,1,0,5,0,0,100,49,"Western Bulldogs","2020",5
+21,"Liberatore, Tom",9,2,14,23,0,0,0,1,1,0,5,4,0,2,2,9,14,0,0,0,0,0,89,49,"Western Bulldogs","2020",5
+27,"Lipinski, Patrick",7,3,13,20,0,0,0,4,1,1,2,1,0,0,0,7,13,0,0,2,0,1,84,49,"Western Bulldogs","2020",5
+11,"Macrae, Jack",10,5,14,24,0,1,0,2,5,3,5,1,2,0,0,8,16,0,0,0,0,0,89,49,"Western Bulldogs","2020",5
+16,"McLean, Toby",10,1,12,22,0,0,0,3,2,3,2,3,1,1,0,7,15,0,0,0,0,1,87,49,"Western Bulldogs","2020",5
+20,"Richards, Ed",5,0,7,12,1,0,0,0,0,3,3,4,2,2,0,7,5,0,0,2,1,0,74,49,"Western Bulldogs","2020",5
+13,"Schache, Josh",7,3,4,11,2,0,0,0,0,0,0,2,1,1,0,4,6,0,2,1,0,1,93,49,"Western Bulldogs","2020",5
+6,"Smith, Bailey",0,0,2,2,0,0,0,0,0,0,1,1,0,1,0,1,2,0,0,0,0,0,13,49,"Western Bulldogs","2020",5
+23,"Vandermeer, Laitham",9,3,4,13,1,0,0,6,1,6,3,2,2,0,0,6,7,0,1,0,0,1,62,49,"Western Bulldogs","2020",5
+3,"Wallis, Mitch",6,6,4,10,2,1,0,2,0,2,1,1,1,1,0,1,9,0,3,1,0,0,82,49,"Western Bulldogs","2020",5
+14,"West, Rhylee",5,0,10,15,0,0,0,3,0,3,0,3,1,1,0,5,11,0,0,2,0,0,85,49,"Western Bulldogs","2020",5
+34,"Williams, Bailey",8,3,7,15,0,0,0,0,6,3,0,0,0,0,0,6,7,0,0,5,0,1,85,49,"Western Bulldogs","2020",5
+10,"Wood, Easton",8,9,6,14,0,0,0,2,2,1,0,1,0,1,1,7,8,4,0,4,2,0,82,49,"Western Bulldogs","2020",5
+0,"Rushed",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,"Western Bulldogs","2020",5
+3,"Anderson, Jed",13,1,4,17,0,0,0,4,0,6,6,3,0,0,0,9,7,0,0,1,0,0,72,-49,"North Melbourne","2020",5
+18,"Atley, Shaun",5,2,7,12,0,0,0,3,1,3,0,1,1,1,0,3,9,0,0,2,0,0,83,-49,"North Melbourne","2020",5
+50,"Brown, Ben",9,6,2,11,0,0,0,0,1,2,0,3,1,2,0,8,4,3,2,6,0,0,100,-49,"North Melbourne","2020",5
+10,"Cunnington, Ben",1,1,6,7,0,0,0,2,1,0,1,0,0,0,0,4,3,0,0,1,0,1,51,-49,"North Melbourne","2020",5
+14,"Dumont, Trent",13,2,5,18,0,0,0,3,1,4,0,0,0,0,0,5,13,0,0,0,0,0,84,-49,"North Melbourne","2020",5
+22,"Goldstein, Todd",6,3,9,15,2,0,31,3,0,1,3,2,0,2,0,11,5,2,1,4,0,0,97,-49,"North Melbourne","2020",5
+43,"Hall, Aaron",3,2,2,5,0,2,0,1,0,1,0,2,1,1,0,5,2,1,1,1,0,0,84,-49,"North Melbourne","2020",5
+37,"Hayden, Kyron",6,1,5,11,0,0,0,2,1,1,1,1,1,1,0,5,6,0,0,0,0,0,84,-49,"North Melbourne","2020",5
+4,"Higgins, Shaun",6,2,8,14,0,1,0,1,0,4,2,4,1,4,0,2,12,0,0,1,0,0,78,-49,"North Melbourne","2020",5
+34,"Macmillan, Jamie",7,5,3,10,0,0,0,3,2,1,1,1,2,0,0,5,6,1,0,2,0,0,81,-49,"North Melbourne","2020",5
+35,"Mahony, Jack",4,2,5,9,0,0,0,1,0,2,0,2,1,0,0,7,2,1,0,0,0,0,78,-49,"North Melbourne","2020",5
+11,"McDonald, Luke",7,2,8,15,0,0,0,6,1,3,2,2,0,1,0,5,9,0,0,1,0,0,91,-49,"North Melbourne","2020",5
+17,"Pittard, Jasper",5,1,5,10,0,0,0,1,4,0,0,2,1,0,0,4,4,0,0,1,0,0,87,-49,"North Melbourne","2020",5
+13,"Polec, Jared",11,3,4,15,0,1,0,3,1,2,3,2,2,0,0,8,7,1,0,2,0,0,94,-49,"North Melbourne","2020",5
+12,"Simpkin, Jy",6,0,14,20,0,0,0,3,0,2,5,1,2,0,0,9,12,0,0,1,1,1,80,-49,"North Melbourne","2020",5
+25,"Tarrant, Robbie",15,10,2,17,0,0,0,1,10,0,0,3,0,2,0,2,13,1,0,3,0,0,97,-49,"North Melbourne","2020",5
+31,"Taylor, Curtis",7,5,6,13,2,0,0,3,1,2,0,1,2,0,0,9,4,2,1,1,0,0,88,-49,"North Melbourne","2020",5
+26,"Thomas, Tarryn",2,0,1,3,0,0,0,1,0,1,0,1,0,1,0,0,2,0,0,0,0,0,26,-49,"North Melbourne","2020",5
+19,"Walker, Josh",7,6,10,17,0,0,0,3,2,0,0,3,1,0,0,9,5,2,0,6,0,0,95,-49,"North Melbourne","2020",5
+2,"Williams, Marley",10,3,2,12,0,1,0,2,2,1,0,2,0,0,0,2,10,0,0,1,0,0,80,-49,"North Melbourne","2020",5
+38,"Xerri, Tristan",4,2,2,6,0,0,2,2,1,2,1,5,2,3,0,3,3,0,0,4,0,0,87,-49,"North Melbourne","2020",5
+44,"Zurhaar, Cameron",8,5,3,11,1,0,0,3,0,2,1,1,0,0,0,4,8,1,1,1,0,0,85,-49,"North Melbourne","2020",5
+0,"Rushed",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49,"North Melbourne","2020",5
