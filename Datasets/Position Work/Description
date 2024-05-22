@@ -1,0 +1,13 @@
+PlayerPosition.txt is the original txt document used to retrieve positional data for players
+
+AFL_Player_Summary_DF is a complete summary of each player, with 0.25, 0.5, 0.75 and mean values for statistics such as kicks, marks, etc.
+This includes the player positions for those where they are know and NA for the unknown positions from the PlayerPosition.txt
+
+AFL_Player_Summary_Known_DF is is a complete summary of each player, with 0.25, 0.5, 0.75 and mean values for statistics such as kicks, marks, etc.
+This includes the player positions for those where they are know. This is to be used for training and validating a classification model for positions.
+
+AFL_Player_Summary_Unknown_DF is is a complete summary of each player, with 0.25, 0.5, 0.75 and mean values for statistics such as kicks, marks, etc.
+This has player positions as NA as it is not known. This is to be used for predicting the player positions.
+
+
+
