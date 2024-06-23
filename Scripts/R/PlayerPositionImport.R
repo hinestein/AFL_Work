@@ -1,5 +1,4 @@
-library(readr)
-PlayerPosition <- read_csv("https://raw.githubusercontent.com/hinestein/AFL_Work/main/Datasets/PlayerPosition.txt")
+PlayerPosition <- read.csv("https://raw.githubusercontent.com/hinestein/AFL_Work/main/Datasets/PlayerPosition.txt")
 
 Teams = c('Port Adelaide', 'Adelaide', 'Brisbane', 'Carlton', 'Collingwood', 'Essendon', 'Fremantle', 'Geelong', 'GWS Giants', 'Gold Coast', 'Hawthorn','North Melbourne',
           'Melbourne', 'St Kilda', 'Sydney', 'Richmond', 'Western Bulldogs', 'West Coast')
