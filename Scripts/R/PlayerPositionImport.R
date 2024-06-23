@@ -63,7 +63,19 @@ for(i in 1:nrow(PlayerPosition)){
   }
 }
 
+
 PlayerPosition_df = data.frame(Player = Names_Column, Team = Team_Column, Year = Years_Column, Position = Position_Column)
 
+
+for(i in 1:nrow(PlayerPosition_df)){
+  Player = PlayerPosition_df$Player[i]
+  g1 = gregexec("\t", Player)[[1]]
+  if(g1[1] > 0){
+    Player = substr(Player, 0, nchar(Player) - 1)
+    PlayerPosition_df$Player[i] = Player
+  }
+}
+
+write.csv(PlayerPosition_df, file = "PlayerPosition_df", row.names = FALSE)
 
 
