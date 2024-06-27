@@ -23,6 +23,13 @@ for(i in Umpire_Names){
   Umpire_single = Umpire_DF %>% filter(Umpire_1 == i | Umpire_2 == i| Umpire_3 == i | Umpire_4 == i)
 }
 
+
+entropy = function(x){
+  y = x/sum(x)
+  out = - sum( y * log(y))
+  return(out)
+}
+
 # Will give 
 # Average games umpire per game
 Umpired_Games_Summary_DF = NULL
@@ -30,15 +37,49 @@ Umpired_Games_Summary_DF = NULL
 for(i in 1:nrow(Umpire_DF)){
   Game = Umpire_DF[i,]
   Games_Umpired = Game %>% select(c("Umpire_1_Games", "Umpire_2_Games", "Umpire_3_Games", "Umpire_4_Games"))
-  Umpired_Games_Summary = data.frame(Average = mean(as.numeric(Games_Umpired), na.rm = TRUE), Entropy = Entropy(as.numeric(Games_Umpired[!is.na(Games_Umpired)])),
-                                 Variance = var(as.numeric(Games_Umpired), na.rm = TRUE), Season = Game$Season, 
-                                 Round = Game$Round, Attendance = Game$Attendance, Venue = Game$Venue,
-                                 Home_Team = Game$Home_Team, Away_Team = Game$Away_Team)
+  Umpired_Games_Summary = data.frame(Average = mean(as.numeric(Games_Umpired), na.rm = TRUE), 
+                                     Entropy = entropy(as.numeric(Games_Umpired[!is.na(Games_Umpired)]))/log(sum(!is.na(Games_Umpired))),
+                                     Variance = var(as.numeric(Games_Umpired), na.rm = TRUE), Season = Game$Season, 
+                                     Round = Game$Round, Attendance = Game$Attendance, Venue = Game$Venue,
+                                     Home_Team = Game$Home_Team, Away_Team = Game$Away_Team)
   
   Umpired_Games_Summary_DF = rbind(Umpired_Games_Summary_DF, Umpired_Games_Summary)
 }
 
+
+ggplot(Umpired_Games_Summary_DF) + geom_point(aes(x = Attendance, y = Entropy, colour = Average), size = 1.2) + facet_wrap(~Venue) +
+  theme_bw()+ 
+  labs(title = "Attendance vs Umpire Games Entropy", col = "Average\nGames") +
+  ylab("Standardised Entropy") + theme_bw() +
+  theme(axis.text=element_text(size=12), axis.title=element_text(size=14),
+        plot.title = element_text(size = 16, face = "bold"))+ scale_colour_continuous(type = "viridis")
+
+ggplot(Umpired_Games_Summary_DF) + geom_point(aes(x = Attendance, y = Variance, colour = Average), size = 1.2) + facet_wrap(~Venue) +
+  theme_bw()+ 
+  labs(title = "Attendance vs Umpire Games Variance", col = "Average\nGames") +
+  ylab("Variance") + theme_bw() +
+  theme(axis.text=element_text(size=12), axis.title=element_text(size=14),
+        plot.title = element_text(size = 16, face = "bold"))+ scale_colour_continuous(type = "viridis")
+
+ggplot(Umpired_Games_Summary_DF %>% filter(Venue == "M.C.G.")) + geom_point(aes(x = Attendance, y = Entropy, colour = Average), size = 2.5) +
+  theme_bw()+ 
+  labs(title = "Attendance vs Umpire Games\nEntropy (M.C.G.)", col = "Average\nGames") +
+  ylab("Standardised Entropy") + theme_bw() +
+  theme(axis.text=element_text(size=12), axis.title=element_text(size=14),
+        plot.title = element_text(size = 16, face = "bold"))+ scale_colour_continuous(type = "viridis")
+
+ggplot(Umpire_DF) + geom_point(aes(x = Attendance, y = Home_Frees + Away_Frees)) + facet_wrap(~Venue)
+
+ggplot(Umpire_DF) + geom_boxplot(aes(x = Venue, y = Home_Frees + Away_Frees)) + theme_bw() + 
+  theme(axis.text.x = element_text(angle = 45, vjust = 0.75, hjust = 0.75),
+        strip.text = element_text(size = 12)) +ylab("Frees Awarded") + 
+  labs(title = "Venue Frees Boxplot") + geom_hline(yintercept = mean(Home_Frees + Away_Frees))
+
+ggplot(Umpire_DF) + geom_boxplot(aes(x = Umpire_1, y = Attendance))
+
 plot(Umpired_Games_Summary_DF$Attendance, Umpired_Games_Summary_DF$Entropy)
+
+
 
 
 # Mean Free kicks per umpire
@@ -48,11 +89,3 @@ for(i in Umpire_Names){
 }
 
 Umpire_DF
-
-
-
-
-
-
-
-
