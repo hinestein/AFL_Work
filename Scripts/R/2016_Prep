@@ -1,0 +1,193 @@
+#2016 Preperation work
+library(stringr)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(ggplot2)
+
+AFL_Stats_DF = read.csv("https://raw.githubusercontent.com/hinestein/AFL_Work/main/Datasets/AFL_Stats_DF")
+PlayerPosition_df = read.csv("https://raw.githubusercontent.com/hinestein/AFL_Work/main/Datasets/Position%20Work/PlayerPosition_df")
+PlayerPosition_2016_df = PlayerPosition_df %>% filter(Year == 2016)
+
+AFL_Stats_2016_DF = AFL_Stats_DF %>% filter(Season == 2016)
+
+AFL_Stats_2016_DF$Position = NA
+
+AFL_Stats_2016_DF = AFL_Stats_2016_DF %>% filter(Number !=0)
+Players_2016 = unique(AFL_Stats_2016_DF$Player)
+n_players_2016 = length(Players_2016)
+Unknown_player_postions = NULL
+for(i in 1:n_players_2016){
+  Player_DF = AFL_Stats_2016_DF %>% filter(Player == Players_2016[i])
+  Player = Player_DF$Player[1]
+  Player_Name_Sep = strsplit(Player, ", ")[[1]]
+  Player_Name = paste(Player_Name_Sep[2], Player_Name_Sep[1])
+  Current_player_Position_DF = PlayerPosition_2016_df %>% filter(Player == Player_Name)
+  if(nrow(Current_player_Position_DF) == 0){
+    Player_Name = paste0(Player_Name, "\t")
+    Current_player_Position_DF = PlayerPosition_2016_df %>% filter(Player == Player_Name)
+  }
+  Current_Player_Position = Current_player_Position_DF$Position
+  if(!identical(Current_Player_Position, character(0))){
+    AFL_Stats_2016_DF$Position[AFL_Stats_2016_DF$Player == Player] = Current_Player_Position
+  }else{
+    Unknown_player_postions = rbind(Unknown_player_postions, c(Player, i))
+  }
+}
+
+
+
+#Manual fixing player positions
+AFL_Stats_2016_DF$Position[AFL_Stats_2016_DF$Player == "Sutcliffe, Cam"] = PlayerPosition_2016_df$Position[PlayerPosition_2016_df$Player == "Cameron Sutcliffe"]
+AFL_Stats_2016_DF$Position[AFL_Stats_2016_DF$Player == "de Boer, Matt"] = PlayerPosition_2016_df$Position[PlayerPosition_2016_df$Player == "Matthew de Boer"]
+AFL_Stats_2016_DF$Position[AFL_Stats_2016_DF$Player == "Macpherson, Darcy"] = PlayerPosition_2016_df$Position[PlayerPosition_2016_df$Player == "Darcy MacPherson"]
+AFL_Stats_2016_DF$Position[AFL_Stats_2016_DF$Player == "Himmelberg, Harry"] = PlayerPosition_2016_df$Position[PlayerPosition_2016_df$Player == "Harrison Himmelberg"]
+AFL_Stats_2016_DF$Position[AFL_Stats_2016_DF$Player == "Dewar, Angus"] = PlayerPosition_2016_df$Position[PlayerPosition_2016_df$Player == "Angus Litherland"]
+
+
+Team_Names_1 = sort(unique(AFL_Stats_2016_DF$Team))
+Team_Names_2 = c("Crows", "Lions", "Blues", "Magpies", "Bombers", "Dockers", "Cats", "Suns", "Giants",
+                 "Hawks", "Demons", "Kangaroos", "Power", "Tigers", "Saints", "Swans", "Eagles", "Bulldogs")
+
+Team_Names = as.data.frame(cbind(Team_Names_1, Team_Names_2))
+
+library(rvest)
+
+Rounds = unique(AFL_Stats_2016_DF$Round)
+New_DF = NULL
+pb <- txtProgressBar(min = 1, max = nrow(AFL_Stats_2016_DF), style = 3)
+t1 = 1
+for(i in Rounds){
+  AFL_Round_DF = AFL_Stats_2016_DF %>% filter(Round == i)
+  Round_SC = read_html(paste0("https://www.footywire.com/afl/footy/supercoach_round?year=2016&round=", i, "&p=&s=T"))
+  Round_SC_table = html_nodes(Round_SC, "table")
+  Round_SC_tables = Round_SC_table %>% html_nodes("table") %>%html_nodes("table") %>% html_nodes("table") %>% html_nodes("table")
+  Round_SC_DF = as.data.frame((Round_SC_tables[2] %>% html_table(header = TRUE))[[1]])[,-1]
+  injured_or_suspended = which(sapply("\n", grepl, Round_SC_DF$Player))
+  injured = which(sapply("Injured", grepl, Round_SC_DF$Player[injured_or_suspended]))
+  suspended = which(sapply("Suspended", grepl, Round_SC_DF$Player[injured_or_suspended]))
+  Round_SC_DF$Injured = 0
+  Round_SC_DF$Suspended = 0
+  Round_SC_DF$Injured[injured_or_suspended[injured]] = 1
+  Round_SC_DF$Suspended[injured_or_suspended[suspended]] = 1
+  Round_SC_DF$Player[injured_or_suspended] = unlist(strsplit(Round_SC_DF$Player[injured_or_suspended], "\n"))[seq(1,length(injured_or_suspended) * 2, 2)]
+  Player_Names_list = strsplit(AFL_Round_DF$Player, ", ")
+  Players_Names_DF = matrix(unlist(Player_Names_list), ncol = 2, byrow = TRUE)
+  SIS_DF = NULL
+  for(j in 1:nrow(Players_Names_DF)){
+    setTxtProgressBar(pb, t1)
+    t1 = t1 + 1
+    index = which(sapply(Players_Names_DF[j,1], grepl, Round_SC_DF$Player) & sapply(Players_Names_DF[j,2], grepl, Round_SC_DF$Player))
+    if(identical(index, integer(0))){
+      index = which(sapply(Players_Names_DF[j,1], grepl, Round_SC_DF$Player))
+      if(identical(index, integer(0))){
+        Team_Name = Team_Names %>% filter(Team_Names_1 == AFL_Round_DF$Team[j]) %>% select(Team_Names_2)
+        index = which(sapply(Players_Names_DF[j,2], grepl, Round_SC_DF$Player) & Round_SC_DF$Team == Team_Name[1,1])
+      }
+    }
+    if(length(index) > 1){
+      index = index[substr(Round_SC_DF$Player[index],1,1) == substr(Players_Names_DF[j,2],1,1)]
+    }
+    if(length(index) > 1){
+      Team_Name = Team_Names %>% filter(Team_Names_1 == AFL_Round_DF$Team[j]) %>% select(Team_Names_2)
+      index = index[Round_SC_DF$Team[index] == Team_Name[1,1]]
+    }
+    if(length(index) > 1){
+      s1 = unlist(map(strsplit(Round_SC_DF$Player[index], " "), 2))
+      index = index[toupper(substr(s1,1,1)) == toupper(substr(Players_Names_DF[j,1],1,1))]
+    }
+    if(length(index) > 1){
+      print(j)
+    }
+    if(identical(index, integer(0))){
+      print(j)
+    }
+    SIS_DF = rbind(SIS_DF, Round_SC_DF[index,c(1,5,7,8)])
+  }
+  if(nrow(SIS_DF) != nrow(AFL_Round_DF)){
+    print(i)
+  }
+  colnames(SIS_DF) = c("Player", "SC_Score", "Injured", "Suspended")
+  New_DF = rbind(New_DF, SIS_DF)
+}
+
+AFL_Stats_2016_DF$SuperCoach = New_DF$SC_Score
+AFL_Stats_2016_DF$Injured = New_DF$Injured
+AFL_Stats_2016_DF$Suspended = New_DF$Suspended
+
+Umpire_1 = NULL
+Umpire_2 = NULL
+Umpire_3 = NULL
+k = 1
+for(i in 1:length(Umpire.list)){
+  for(j in 1:length(Umpire.list[[i]])){
+    Umpire_Game = Umpire.list[[i]][[j]]
+    Umpire_Game = Umpire_Game[order(Umpire_Game$Games_Umpired, decreasing = TRUE),]
+    Umpire_1 = c(Umpire_1, rep(Umpire.list[[i]][[j]][1,1], nrow(AFL_Stats_2016_DF %>% filter(GameID == k))))
+    Umpire_2 = c(Umpire_2, rep(Umpire.list[[i]][[j]][2,1], nrow(AFL_Stats_2016_DF %>% filter(GameID == k))))
+    Umpire_3 = c(Umpire_3, rep(Umpire.list[[i]][[j]][3,1], nrow(AFL_Stats_2016_DF %>% filter(GameID == k))))
+    k = k + 1
+  }
+}
+
+AFL_Stats_2016_DF$Umpire_1 = Umpire_1
+AFL_Stats_2016_DF$Umpire_2 = Umpire_2
+AFL_Stats_2016_DF$Umpire_3 = Umpire_3
+
+
+AFL_Stats_2016_DF$BrownlowBinary = (AFL_Stats_2016_DF$BrownlowVotes > 0)
+
+AFL_Stats_2016_Vote_Getters = AFL_Stats_2016_DF %>% filter(BrownlowBinary == 1) %>% 
+  select(c("Player", "Position", "BrownlowVotes", "Team", "GameID", "Umpire_1", "Umpire_2", "Umpire_3"))
+
+
+Umpire_1_Votes_Position = NULL
+Unique_Umpire_1 = unique(AFL_Stats_2016_Vote_Getters$Umpire_1)
+for(i in Unique_Umpire_1){
+  Umpire_Games = AFL_Stats_2016_Vote_Getters %>% filter(Umpire_1 == i)
+  Umpire_Games = Umpire_Games %>% mutate(Umpire_Seniority = case_when(Umpire_1 == i ~ "Umpire 1", Umpire_2 == i ~ "Umpire 2", Umpire_3 == i ~ "Umpire 3"))
+  Umpire_1_Votes_Position = rbind(Umpire_1_Votes_Position, Umpire_Games)
+}
+
+Group_Info = data.frame(table(Umpire_1_Votes_Position$Umpire_1)/3)
+colnames(Group_Info) = c("Umpire_1", "Count")
+
+ggplot(Umpire_1_Votes_Position) + geom_bar(aes(Position, fill = as.factor(BrownlowVotes))) + facet_wrap(~as.factor(Umpire_1), nrow = 5, ncol = 5)+
+  geom_text(
+    data = Group_Info,
+    aes(
+      x = -Inf,
+      y = Inf,
+      label = paste0("Games", "==", Count)
+    ),
+    parse = TRUE,
+    hjust = -0.15,
+    vjust = 1.5
+  ) +
+  ylab("Vote Count") + labs(title = "Senior Umpire Position Voting", fill = "Number of\nVotes") + theme_bw() + 
+  theme(axis.text.x = element_text(angle = 45, vjust = 0.75, hjust = 0.75),
+        strip.text = element_text(size = 12))
+  
+
+
+table(Umpire_1_Votes_Position$Umpire_Seniority)
+
+nrow(AFL_Stats_2016_Vote_Getters)/3
+
+nrow(unique(AFL_Stats_2016_Vote_Getters %>% select(c("Umpire_1"))))
+
+length(unique)
+
+length(unique(c(AFL_Stats_2016_DF$Umpire_1, AFL_Stats_2016_DF$Umpire_2, AFL_Stats_2016_DF$Umpire_3)))
+
+
+table(Umpire_1_Votes_Position$Umpire_1)/3
+
+
+Umpire_1_Votes_Position %>% group_by(group,choice) %>% 
+  summarise(n=n()) %>% 
+  group_by(group) %>% 
+  mutate(perc=100*n/sum(n))
+
+
+
