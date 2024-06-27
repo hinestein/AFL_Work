@@ -1,0 +1,58 @@
+# Umpire Bias Script
+# Packages
+library(stringr)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(ggplot2)
+library(DescTools)
+
+# Import 2016 to 2023 data
+AFL_Stats_DF = read.csv("https://raw.githubusercontent.com/hinestein/AFL_Work/main/Datasets/AFL_Stats_DF")
+
+# Import Umpire data
+Umpire_DF =read.csv("https://raw.githubusercontent.com/hinestein/AFL_Work/main/Datasets/AFL_Umpires/Umpire_DF")
+
+# Look at Umpire breakdown
+# Umpires
+Umpire_Names = unique(c(Umpire_DF$Umpire_1, Umpire_DF$Umpire_2, Umpire_DF$Umpire_3))
+# Number of Umpires
+n_umpires = length(Umpire_Names)
+
+for(i in Umpire_Names){
+  Umpire_single = Umpire_DF %>% filter(Umpire_1 == i | Umpire_2 == i| Umpire_3 == i | Umpire_4 == i)
+}
+
+# Will give 
+# Average games umpire per game
+Umpired_Games_Summary_DF = NULL
+
+for(i in 1:nrow(Umpire_DF)){
+  Game = Umpire_DF[i,]
+  Games_Umpired = Game %>% select(c("Umpire_1_Games", "Umpire_2_Games", "Umpire_3_Games", "Umpire_4_Games"))
+  Umpired_Games_Summary = data.frame(Average = mean(as.numeric(Games_Umpired), na.rm = TRUE), Entropy = Entropy(as.numeric(Games_Umpired[!is.na(Games_Umpired)])),
+                                 Variance = var(as.numeric(Games_Umpired), na.rm = TRUE), Season = Game$Season, 
+                                 Round = Game$Round, Attendance = Game$Attendance, Venue = Game$Venue,
+                                 Home_Team = Game$Home_Team, Away_Team = Game$Away_Team)
+  
+  Umpired_Games_Summary_DF = rbind(Umpired_Games_Summary_DF, Umpired_Games_Summary)
+}
+
+plot(Umpired_Games_Summary_DF$Attendance, Umpired_Games_Summary_DF$Entropy)
+
+
+# Mean Free kicks per umpire
+
+for(i in Umpire_Names){
+  Umpire_single = Umpire_DF %>% filter(Umpire_1 == i | Umpire_2 == i| Umpire_3 == i | Umpire_4 == i)
+}
+
+Umpire_DF
+
+
+
+
+
+
+
+
